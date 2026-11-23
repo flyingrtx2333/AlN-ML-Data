@@ -1,0 +1,2721 @@
+{
+  "POSCAR-Na1Hf2Al13N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Na",
+        "amount": 1
+      },
+      "B": {
+        "element": "Hf",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.195357040625,
+    "volume_ang3": 363.58681218291764,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9499999999999997,
+      "Peak1_Height": 4.829947783281242,
+      "Peak1_FWHM": 0.053304002047405596,
+      "Peak2_Pos": 3.1499999999999995,
+      "Peak2_Height": 1.9933117835763858,
+      "Peak2_FWHM": 0.09315723434088197,
+      "Peak2_Pos_Peak1_Pos": 1.6153846153846154,
+      "u": 0.19569799193557208
+    },
+    "lattice_a": 6.482654419832921,
+    "lattice_c": 9.964333209111215,
+    "c_over_a": 1.5370761055265427,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9578004584257944,
+      "cation_n_bond_std": 0.08821045969941237,
+      "cation_n_bond_min": 1.8155413839134291,
+      "cation_n_bond_max": 2.25691187989216,
+      "cation_n_bond_range": 0.441370495978731,
+      "al_n_bond_mean": 1.9270516651090337,
+      "al_n_bond_std": 0.05493127082743549,
+      "al_n_bond_min": 1.8155413839134291,
+      "al_n_bond_max": 2.048914773824248,
+      "al_n_bond_range": 0.23337338991081902,
+      "dopant_n_bond_mean": 2.0910452294650903,
+      "dopant_n_bond_std": 0.08106937299038396,
+      "dopant_n_bond_min": 1.9695483204019089,
+      "dopant_n_bond_max": 2.25691187989216,
+      "dopant_n_bond_range": 0.2873635594902513,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.15212383368718,
+      "tetra_angle_std": 5.943669024511042,
+      "tetra_angle_min": 88.5568482264337,
+      "tetra_angle_max": 121.40552072545233,
+      "tetra_angle_range": 32.84867249901863,
+      "tetra_angle_dev_mean": 4.665480292276373,
+      "tetra_angle_dev_std": 3.6962572804504137,
+      "tetra_angle_dev_min": 0.03370542419831679,
+      "tetra_angle_dev_max": 20.914372407566304,
+      "tetra_angle_dev_range": 20.880666983367988,
+      "cation_offcenter_mean": 0.06059979416036701,
+      "cation_offcenter_std": 0.05031923889384249,
+      "cation_offcenter_min": 0.00891951322394524,
+      "cation_offcenter_max": 0.22093119825138824,
+      "cation_offcenter_range": 0.212011685027443,
+      "cation_n_bond_cv": 0.045055898991023635,
+      "dopant_n_bond_delta": 0.1639935643560566,
+      "lattice_a_len": 6.482654419832921,
+      "lattice_b_len": 6.517586750852921,
+      "lattice_c_len": 9.964333209111215,
+      "lattice_alpha": 89.9326120256178,
+      "lattice_beta": 90.15723824738818,
+      "lattice_gamma": 120.27469412976778,
+      "lattice_angle_deviation": 10.166440117179386,
+      "sg_number": 1,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.1999999999999997,
+      "rdf_height_ratio_21": 0.41269841269841273,
+      "rdf_width_ratio_21": 1.7476592894100735,
+      "rdf_area_ratio_21": 0.7212562146771733,
+      "rdf_peak1_width_norm": 0.027335385665336207,
+      "rdf_peak2_width_norm": 0.02957372518758158,
+      "rdf_peak2_sharpness": 21.397283825348847,
+      "rdf_sharpness_ratio_21": 0.23614351790372143,
+      "rdf_total_fwhm": 0.14646123638828756,
+      "rdf_local_order": 46.58747758190631,
+      "rdf_disorder": 0.02146499557186545,
+      "rdf_peak_balance": -0.4157303370786517,
+      "rdf_width_balance": 0.2721077144796206,
+      "rdf_gap_over_width": 8.193294209388247,
+      "rdf_gap_over_peak1": 0.6153846153846153,
+      "rdf_peak1_area": 0.25745554652888547,
+      "rdf_peak2_area": 0.18569141293706679,
+      "volume_per_atom": 11.362087880716176,
+      "volume_per_cation": 22.724175761432353,
+      "tetragonal_strain": 0.5370761055265427,
+      "ca_centered_abs": 0.33707610552654277,
+      "u_peak1_pos": 0.3816110842743655,
+      "u_peak2_pos": 0.616448674597052,
+      "u_rdf_width_ratio": 0.34201341352510023
+    },
+    "c33": [
+      [
+        3085.1582,
+        1381.6639,
+        1154.178
+      ],
+      [
+        1381.6639,
+        3123.0068,
+        1165.9536
+      ],
+      [
+        1154.178,
+        1165.9536,
+        2140.7098
+      ]
+    ],
+    "e33": [
+      [
+        -0.29024,
+        -0.11431000000000001,
+        0.11676
+      ],
+      [
+        -0.14451999999999998,
+        -0.03473,
+        0.01228
+      ],
+      [
+        -1.13808,
+        -0.46769,
+        3.29203
+      ]
+    ],
+    "d33": 25.1264379274341
+  },
+
+  "POSCAR-Li1Hf2Al13N16-1": {
+    "dopants": {
+      "A": {
+        "element": "Li",
+        "amount": 1
+      },
+      "B": {
+        "element": "Hf",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.39493605375,
+    "volume_ang3": 356.92090556058264,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 6.701778300088864,
+      "Peak1_FWHM": 0.040000000000000036,
+      "Peak2_Pos": 3.0699999999999994,
+      "Peak2_Height": 2.7958187933029603,
+      "Peak2_FWHM": 0.09122378906515927,
+      "Peak2_Pos_Peak1_Pos": 1.5906735751295336,
+      "u": 0.1934147580687912
+    },
+    "lattice_a": 6.438680382053335,
+    "lattice_c": 9.978556027837147,
+    "c_over_a": 1.5497827871143564,
+    "structure_features": {
+      "cation_n_bond_mean": 1.940777277925155,
+      "cation_n_bond_std": 0.0589661361967904,
+      "cation_n_bond_min": 1.8379443980305221,
+      "cation_n_bond_max": 2.1247013569465056,
+      "cation_n_bond_range": 0.2867569589159835,
+      "al_n_bond_mean": 1.918197331135003,
+      "al_n_bond_std": 0.0333106202337875,
+      "al_n_bond_min": 1.8379443980305221,
+      "al_n_bond_max": 1.9782327784316425,
+      "al_n_bond_range": 0.14028838040112035,
+      "dopant_n_bond_mean": 2.0386237140158148,
+      "dopant_n_bond_std": 0.044186875481489966,
+      "dopant_n_bond_min": 1.9686926564756653,
+      "dopant_n_bond_max": 2.1247013569465056,
+      "dopant_n_bond_range": 0.15600870047084037,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.30864642637836,
+      "tetra_angle_std": 4.466617541910114,
+      "tetra_angle_min": 96.735750316056,
+      "tetra_angle_max": 117.91893614588743,
+      "tetra_angle_range": 21.18318582983143,
+      "tetra_angle_dev_mean": 3.7517474565063758,
+      "tetra_angle_dev_std": 2.4292990061499005,
+      "tetra_angle_dev_min": 0.09605176280543049,
+      "tetra_angle_dev_max": 12.735470317944007,
+      "tetra_angle_dev_range": 12.639418555138576,
+      "cation_offcenter_mean": 0.04775053566449798,
+      "cation_offcenter_std": 0.029260336456962566,
+      "cation_offcenter_min": 0.011813885418807558,
+      "cation_offcenter_max": 0.13815813701091698,
+      "cation_offcenter_range": 0.1263442515921094,
+      "cation_n_bond_cv": 0.030382742454523107,
+      "dopant_n_bond_delta": 0.12042638288081187,
+      "lattice_a_len": 6.438680382053335,
+      "lattice_b_len": 6.4230139704628835,
+      "lattice_c_len": 9.978556027837147,
+      "lattice_alpha": 90.31036798140515,
+      "lattice_beta": 89.8138231484193,
+      "lattice_gamma": 120.12664074366391,
+      "lattice_angle_deviation": 10.20772852554992,
+      "sg_number": 1,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.1399999999999997,
+      "rdf_height_ratio_21": 0.41717566116233484,
+      "rdf_width_ratio_21": 2.2805947266289794,
+      "rdf_area_ratio_21": 0.951408612924779,
+      "rdf_peak1_width_norm": 0.02072538860103629,
+      "rdf_peak2_width_norm": 0.029714589272038856,
+      "rdf_peak2_sharpness": 30.6479134659268,
+      "rdf_sharpness_ratio_21": 0.18292406638113015,
+      "rdf_total_fwhm": 0.1312237890651593,
+      "rdf_local_order": 72.37709839849072,
+      "rdf_disorder": 0.01381652514576148,
+      "rdf_peak_balance": -0.4112576547918174,
+      "rdf_width_balance": 0.39035444281923615,
+      "rdf_gap_over_width": 8.687449189825875,
+      "rdf_gap_over_peak1": 0.5906735751295336,
+      "rdf_peak1_area": 0.2680711320035548,
+      "rdf_peak2_area": 0.2550451838646774,
+      "volume_per_atom": 11.153778298768207,
+      "volume_per_cation": 22.307556597536415,
+      "tetragonal_strain": 0.5497827871143564,
+      "ca_centered_abs": 0.3497827871143564,
+      "u_peak1_pos": 0.3732904830727669,
+      "u_peak2_pos": 0.5937833072711888,
+      "u_rdf_width_ratio": 0.441100677303905
+    },
+    "c33": [
+      [
+        3227.2327,
+        1356.4524,
+        1174.9498
+      ],
+      [
+        1356.4524,
+        3168.2797,
+        1158.1161
+      ],
+      [
+        1174.9498,
+        1158.1161,
+        2242.0051
+      ]
+    ],
+    "e33": [
+      [
+        0.59295,
+        0.41433,
+        0.14806
+      ],
+      [
+        -0.14282999999999998,
+        -0.29238000000000003,
+        0.03059
+      ],
+      [
+        -0.9466600000000001,
+        -1.0504799999999999,
+        3.16293
+      ]
+    ],
+    "d33": 22.250201464022574
+  },
+
+  "POSCAR-Na1Zr2Al13N16-1": {
+    "dopants": {
+      "A": {
+        "element": "Na",
+        "amount": 1
+      },
+      "B": {
+        "element": "Zr",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.927470085625,
+    "volume_ang3": 367.39546163899485,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9899999999999998,
+      "Peak1_Height": 3.965340660312711,
+      "Peak1_FWHM": 0.05448766616312106,
+      "Peak2_Pos": 3.249999999999999,
+      "Peak2_Height": 2.162455761441377,
+      "Peak2_FWHM": 0.0558372289198803,
+      "Peak2_Pos_Peak1_Pos": 1.6331658291457283,
+      "u": 0.19759218515216082
+    },
+    "lattice_a": 6.497742899516952,
+    "lattice_c": 10.07124850847492,
+    "c_over_a": 1.5499610655915033,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9617590692639304,
+      "cation_n_bond_std": 0.08582578540746483,
+      "cation_n_bond_min": 1.816695719144835,
+      "cation_n_bond_max": 2.2274572700580824,
+      "cation_n_bond_range": 0.4107615509132474,
+      "al_n_bond_mean": 1.9334140069731154,
+      "al_n_bond_std": 0.06252137377137576,
+      "al_n_bond_min": 1.816695719144835,
+      "al_n_bond_max": 2.0239312377134757,
+      "al_n_bond_range": 0.20723551856864075,
+      "dopant_n_bond_mean": 2.0845876725241275,
+      "dopant_n_bond_std": 0.06147006905121985,
+      "dopant_n_bond_min": 2.0193336349100917,
+      "dopant_n_bond_max": 2.2274572700580824,
+      "dopant_n_bond_range": 0.2081236351479907,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.24142683388716,
+      "tetra_angle_std": 5.561951330962246,
+      "tetra_angle_min": 91.53367050233695,
+      "tetra_angle_max": 120.11351326804757,
+      "tetra_angle_range": 28.579842765710623,
+      "tetra_angle_dev_mean": 4.333808084748836,
+      "tetra_angle_dev_std": 3.493739441218912,
+      "tetra_angle_dev_min": 0.038729530218859054,
+      "tetra_angle_dev_max": 17.93755013166306,
+      "tetra_angle_dev_range": 17.8988206014442,
+      "cation_offcenter_mean": 0.059544206594935874,
+      "cation_offcenter_std": 0.03811989654903168,
+      "cation_offcenter_min": 0.020687883909525178,
+      "cation_offcenter_max": 0.15420662445129543,
+      "cation_offcenter_range": 0.13351874054177026,
+      "cation_n_bond_cv": 0.04374940162232431,
+      "dopant_n_bond_delta": 0.15117366555101208,
+      "lattice_a_len": 6.497742899516952,
+      "lattice_b_len": 6.486634060771921,
+      "lattice_c_len": 10.07124850847492,
+      "lattice_alpha": 89.93530426234697,
+      "lattice_beta": 90.0002300525087,
+      "lattice_gamma": 120.05973056182647,
+      "lattice_angle_deviation": 10.041552117329397,
+      "sg_number": 8,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.2599999999999993,
+      "rdf_height_ratio_21": 0.5453392146315226,
+      "rdf_width_ratio_21": 1.024768224660587,
+      "rdf_area_ratio_21": 0.5588462988157441,
+      "rdf_peak1_width_norm": 0.02738073676538747,
+      "rdf_peak2_width_norm": 0.017180685821501635,
+      "rdf_peak2_sharpness": 38.72784884336292,
+      "rdf_sharpness_ratio_21": 0.5321585910922875,
+      "rdf_total_fwhm": 0.11032489508300136,
+      "rdf_local_order": 55.54318829982959,
+      "rdf_disorder": 0.018004007883052477,
+      "rdf_peak_balance": -0.29421422886553017,
+      "rdf_width_balance": 0.012232622163328712,
+      "rdf_gap_over_width": 11.420813036369138,
+      "rdf_gap_over_peak1": 0.6331658291457284,
+      "rdf_peak1_area": 0.21606215812216903,
+      "rdf_peak2_area": 0.12074553738071624,
+      "volume_per_atom": 11.481108176218589,
+      "volume_per_cation": 22.962216352437178,
+      "tetragonal_strain": 0.5499610655915033,
+      "ca_centered_abs": 0.3499610655915033,
+      "u_peak1_pos": 0.39320844845279995,
+      "u_peak2_pos": 0.6421746017445225,
+      "u_rdf_width_ratio": 0.20248619278518581
+    },
+    "c33": [
+      [
+        3037.3972,
+        1252.2051,
+        1142.2464
+      ],
+      [
+        1252.2051,
+        2932.2457,
+        1209.083
+      ],
+      [
+        1142.2464,
+        1209.083,
+        2050.571
+      ]
+    ],
+    "e33": [
+      [
+        0.056620000000000004,
+        0.01896,
+        0.03281
+      ],
+      [
+        -0.09989,
+        0.69678,
+        0.19548000000000001
+      ],
+      [
+        -0.8649600000000001,
+        -0.7628499999999999,
+        2.53067
+      ]
+    ],
+    "d33": 20.740626495202328
+  },
+
+  "POSCAR-Ti2Mn2Al12N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Ti",
+        "amount": 2
+      },
+      "B": {
+        "element": "Mn",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.50605197125,
+    "volume_ang3": 344.7280644023281,
+    "rdf_analysis": {
+      "n_peaks": 3,
+      "Peak1_Pos": 1.9099999999999997,
+      "Peak1_Height": 8.81213885397939,
+      "Peak1_FWHM": 0.040000000000000036,
+      "Peak2_Pos": 3.05,
+      "Peak2_Height": 2.8798319227091467,
+      "Peak2_FWHM": 0.16207284400377553,
+      "Peak2_Pos_Peak1_Pos": 1.5968586387434556,
+      "u": 0.1931191062135767
+    },
+    "lattice_a": 6.346338537119636,
+    "lattice_c": 9.890269468664941,
+    "c_over_a": 1.5584213496990285,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9204577093505262,
+      "cation_n_bond_std": 0.06172196701594053,
+      "cation_n_bond_min": 1.8532302188279957,
+      "cation_n_bond_max": 2.331589350285265,
+      "cation_n_bond_range": 0.47835913145726927,
+      "al_n_bond_mean": 1.906164794846031,
+      "al_n_bond_std": 0.022846984758278538,
+      "al_n_bond_min": 1.862741932582006,
+      "al_n_bond_max": 1.95550828992424,
+      "al_n_bond_range": 0.09276635734223393,
+      "dopant_n_bond_mean": 1.963336452864012,
+      "dopant_n_bond_std": 0.10592923039104284,
+      "dopant_n_bond_min": 1.8532302188279957,
+      "dopant_n_bond_max": 2.331589350285265,
+      "dopant_n_bond_range": 0.47835913145726927,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.1429953339142,
+      "tetra_angle_std": 5.0600086149365575,
+      "tetra_angle_min": 91.31321924581142,
+      "tetra_angle_max": 121.97027385710649,
+      "tetra_angle_range": 30.657054611295067,
+      "tetra_angle_dev_mean": 3.7377476665766025,
+      "tetra_angle_dev_std": 3.4264648563570232,
+      "tetra_angle_dev_min": 0.057850366297017786,
+      "tetra_angle_dev_max": 18.15800138818858,
+      "tetra_angle_dev_range": 18.100151021891563,
+      "cation_offcenter_mean": 0.05635658078390562,
+      "cation_offcenter_std": 0.05755840089744782,
+      "cation_offcenter_min": 0.016144010766696963,
+      "cation_offcenter_max": 0.26555264203156564,
+      "cation_offcenter_range": 0.24940863126486867,
+      "cation_n_bond_cv": 0.03213919614861714,
+      "dopant_n_bond_delta": 0.057171658017981075,
+      "lattice_a_len": 6.346338537119636,
+      "lattice_b_len": 6.352003332644593,
+      "lattice_c_len": 9.89026946866494,
+      "lattice_alpha": 89.60859068385417,
+      "lattice_beta": 90.38546008992718,
+      "lattice_gamma": 120.15553155052528,
+      "lattice_angle_deviation": 10.310800318866095,
+      "sg_number": 1,
+      "rdf_n_peaks": 3.0,
+      "rdf_peak_separation": 1.1400000000000001,
+      "rdf_height_ratio_21": 0.3268028307802561,
+      "rdf_width_ratio_21": 4.051821100094385,
+      "rdf_area_ratio_21": 1.3241466053260165,
+      "rdf_peak1_width_norm": 0.020942408376963373,
+      "rdf_peak2_width_norm": 0.053138637378287064,
+      "rdf_peak2_sharpness": 17.7687504677962,
+      "rdf_sharpness_ratio_21": 0.08065578975652293,
+      "rdf_total_fwhm": 0.20207284400377556,
+      "rdf_local_order": 57.86017826556685,
+      "rdf_disorder": 0.017283043882274203,
+      "rdf_peak_balance": -0.5073829762813027,
+      "rdf_width_balance": 0.6041031619344887,
+      "rdf_gap_over_width": 5.641529942433532,
+      "rdf_gap_over_peak1": 0.5968586387434557,
+      "rdf_peak1_area": 0.3524855541591759,
+      "rdf_peak2_area": 0.46674254996633247,
+      "volume_per_atom": 10.772752012572752,
+      "volume_per_cation": 21.545504025145505,
+      "tetragonal_strain": 0.5584213496990285,
+      "ca_centered_abs": 0.3584213496990285,
+      "u_peak1_pos": 0.36885749286793146,
+      "u_peak2_pos": 0.5890132739514089,
+      "u_rdf_width_ratio": 0.7824840693875387
+    },
+    "c33": [
+      [
+        3211.1711,
+        1472.0383,
+        1454.935
+      ],
+      [
+        1472.0383,
+        3427.3617,
+        1327.0462
+      ],
+      [
+        1454.935,
+        1327.0462,
+        2263.7209
+      ]
+    ],
+    "e33": [
+      [
+        -5.1273800000000005,
+        -5.419989999999999,
+        -0.028159999999999998
+      ],
+      [
+        -7.6599900000000005,
+        -7.0832,
+        0.47522
+      ],
+      [
+        -0.7455,
+        -0.5720400000000001,
+        1.92061
+      ]
+    ],
+    "d33": 17.53182278192747
+  },
+
+  "POSCAR-Sr2Zr2Al12N16-3": {
+    "dopants": {
+      "A": {
+        "element": "Sr",
+        "amount": 2
+      },
+      "B": {
+        "element": "Zr",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.727367768125,
+    "volume_ang3": 390.570914244701,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9499999999999997,
+      "Peak1_Height": 3.591975524105776,
+      "Peak1_FWHM": 0.040000000000000036,
+      "Peak2_Pos": 3.1099999999999994,
+      "Peak2_Height": 1.7259650177605272,
+      "Peak2_FWHM": 0.040000000000000036,
+      "Peak2_Pos_Peak1_Pos": 1.5948717948717948,
+      "u": 0.18888740276598343
+    },
+    "lattice_a": 6.56796378477899,
+    "lattice_c": 10.323610634934166,
+    "c_over_a": 1.5718129656650586,
+    "structure_features": {
+      "cation_n_bond_mean": 2.018377536481952,
+      "cation_n_bond_std": 0.15874488715665394,
+      "cation_n_bond_min": 1.8358193539138474,
+      "cation_n_bond_max": 2.5476151771951905,
+      "cation_n_bond_range": 0.711795823281343,
+      "al_n_bond_mean": 1.947836769783993,
+      "al_n_bond_std": 0.06748125505838687,
+      "al_n_bond_min": 1.8358193539138474,
+      "al_n_bond_max": 2.0911377233890014,
+      "al_n_bond_range": 0.25531836947515396,
+      "dopant_n_bond_mean": 2.2299998365758276,
+      "dopant_n_bond_std": 0.16560978305861043,
+      "dopant_n_bond_min": 2.0010934674519443,
+      "dopant_n_bond_max": 2.5476151771951905,
+      "dopant_n_bond_range": 0.5465217097432462,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 108.99905052133762,
+      "tetra_angle_std": 9.366144482177702,
+      "tetra_angle_min": 79.05226870342884,
+      "tetra_angle_max": 127.00678872685621,
+      "tetra_angle_range": 47.95452002342738,
+      "tetra_angle_dev_mean": 7.525536432624968,
+      "tetra_angle_dev_std": 5.595883172257416,
+      "tetra_angle_dev_min": 0.200191486480378,
+      "tetra_angle_dev_max": 30.41895193057117,
+      "tetra_angle_dev_range": 30.21876044409079,
+      "cation_offcenter_mean": 0.06561454590755546,
+      "cation_offcenter_std": 0.0650390012693537,
+      "cation_offcenter_min": 0.01324185277551029,
+      "cation_offcenter_max": 0.29888938077184046,
+      "cation_offcenter_range": 0.2856475279963302,
+      "cation_n_bond_cv": 0.07864974926016445,
+      "dopant_n_bond_delta": 0.28216306679183467,
+      "lattice_a_len": 6.56796378477899,
+      "lattice_b_len": 6.674372917486579,
+      "lattice_c_len": 10.323610634934166,
+      "lattice_alpha": 89.63458569440968,
+      "lattice_beta": 89.82527108887258,
+      "lattice_gamma": 120.33664817264277,
+      "lattice_angle_deviation": 10.292263796453502,
+      "sg_number": 1,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.1599999999999997,
+      "rdf_height_ratio_21": 0.48050578467964566,
+      "rdf_width_ratio_21": 1.0,
+      "rdf_area_ratio_21": 0.4805057846796456,
+      "rdf_peak1_width_norm": 0.020512820512820534,
+      "rdf_peak2_width_norm": 0.012861736334405158,
+      "rdf_peak2_sharpness": 43.149125444013144,
+      "rdf_sharpness_ratio_21": 0.48050578467964566,
+      "rdf_total_fwhm": 0.08000000000000007,
+      "rdf_local_order": 66.47425677332873,
+      "rdf_disorder": 0.015043417535451515,
+      "rdf_peak_balance": -0.3508896896561356,
+      "rdf_width_balance": 0.0,
+      "rdf_gap_over_width": 14.499999999999984,
+      "rdf_gap_over_peak1": 0.5948717948717948,
+      "rdf_peak1_area": 0.14367902096423116,
+      "rdf_peak2_area": 0.06903860071042114,
+      "volume_per_atom": 12.205341070146906,
+      "volume_per_cation": 24.41068214029381,
+      "tetragonal_strain": 0.5718129656650586,
+      "ca_centered_abs": 0.3718129656650586,
+      "u_peak1_pos": 0.3683304353936676,
+      "u_peak2_pos": 0.5874398226022084,
+      "u_rdf_width_ratio": 0.18888740276598343
+    },
+    "c33": [
+      [
+        2388.9157,
+        1136.6085,
+        1154.965
+      ],
+      [
+        1136.6085,
+        2559.3095,
+        1153.1065
+      ],
+      [
+        1154.965,
+        1153.1065,
+        2112.3091
+      ]
+    ],
+    "e33": [
+      [
+        -0.73649,
+        2.5191000000000003,
+        1.99804
+      ],
+      [
+        0.35466,
+        1.67388,
+        0.65111
+      ],
+      [
+        -0.44449999999999995,
+        -1.1877600000000001,
+        1.62033
+      ]
+    ],
+    "d33": 14.101534721447743
+  },
+
+  "POSCAR-Na2Al12Mo2N16-1": {
+    "dopants": {
+      "A": {
+        "element": "Na",
+        "amount": 2
+      },
+      "B": {
+        "element": "Mo",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.55276667125,
+    "volume_ang3": 363.8704104449841,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9699999999999998,
+      "Peak1_Height": 4.00744118493347,
+      "Peak1_FWHM": 0.07389799504167671,
+      "Peak2_Pos": 3.05,
+      "Peak2_Height": 1.6718600907936907,
+      "Peak2_FWHM": 0.05626097296943522,
+      "Peak2_Pos_Peak1_Pos": 1.5482233502538072,
+      "u": 0.19724645828025025
+    },
+    "lattice_a": 6.455122859068381,
+    "lattice_c": 9.98750505928476,
+    "c_over_a": 1.547221528906141,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9667226527458257,
+      "cation_n_bond_std": 0.11995832273019316,
+      "cation_n_bond_min": 1.803319120962997,
+      "cation_n_bond_max": 2.374208737901513,
+      "cation_n_bond_range": 0.570889616938516,
+      "al_n_bond_mean": 1.924906609466677,
+      "al_n_bond_std": 0.049720304481122135,
+      "al_n_bond_min": 1.803319120962997,
+      "al_n_bond_max": 2.0366550218211623,
+      "al_n_bond_range": 0.23333590085816525,
+      "dopant_n_bond_mean": 2.0921707825832714,
+      "dopant_n_bond_std": 0.1707650228518551,
+      "dopant_n_bond_min": 1.8286042666286555,
+      "dopant_n_bond_max": 2.374208737901513,
+      "dopant_n_bond_range": 0.5456044712728576,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 108.78204675754598,
+      "tetra_angle_std": 8.572559765397852,
+      "tetra_angle_min": 80.73590551020571,
+      "tetra_angle_max": 125.23502225187525,
+      "tetra_angle_range": 44.49911674166954,
+      "tetra_angle_dev_mean": 6.467264167308315,
+      "tetra_angle_dev_std": 5.669059512260798,
+      "tetra_angle_dev_min": 0.011438262439597224,
+      "tetra_angle_dev_max": 28.735315123794294,
+      "tetra_angle_dev_range": 28.723876861354697,
+      "cation_offcenter_mean": 0.08373799787898084,
+      "cation_offcenter_std": 0.06827308268765712,
+      "cation_offcenter_min": 0.027134657649756165,
+      "cation_offcenter_max": 0.2927255639748694,
+      "cation_offcenter_range": 0.26559090632511323,
+      "cation_n_bond_cv": 0.0609940209732746,
+      "dopant_n_bond_delta": 0.16726417311659447,
+      "lattice_a_len": 6.455122859068381,
+      "lattice_b_len": 6.5168068723602985,
+      "lattice_c_len": 9.98750505928476,
+      "lattice_alpha": 90.44713926206867,
+      "lattice_beta": 89.36620491830345,
+      "lattice_gamma": 119.98907423647195,
+      "lattice_angle_deviation": 10.356669526745724,
+      "sg_number": 1,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.08,
+      "rdf_height_ratio_21": 0.4171889277076056,
+      "rdf_width_ratio_21": 0.7613328742911816,
+      "rdf_area_ratio_21": 0.3176196454540873,
+      "rdf_peak1_width_norm": 0.03751167260998818,
+      "rdf_peak2_width_norm": 0.018446220645716466,
+      "rdf_peak2_sharpness": 29.71616028933518,
+      "rdf_sharpness_ratio_21": 0.5479717765977439,
+      "rdf_total_fwhm": 0.13015896801111193,
+      "rdf_local_order": 43.63357640667762,
+      "rdf_disorder": 0.02291813053964931,
+      "rdf_peak_balance": -0.4112444437701958,
+      "rdf_width_balance": -0.13550370244742402,
+      "rdf_gap_over_width": 8.29754581265425,
+      "rdf_gap_over_peak1": 0.5482233502538072,
+      "rdf_peak1_area": 0.29614186881402466,
+      "rdf_peak2_area": 0.09406047537682134,
+      "volume_per_atom": 11.370950326405753,
+      "volume_per_cation": 22.741900652811506,
+      "tetragonal_strain": 0.5472215289061411,
+      "ca_centered_abs": 0.3472215289061411,
+      "u_peak1_pos": 0.38857552281209295,
+      "u_peak2_pos": 0.6016016977547632,
+      "u_rdf_width_ratio": 0.15017021302625855
+    },
+    "c33": [
+      [
+        2807.5837,
+        1255.4694,
+        1084.6698
+      ],
+      [
+        1255.4694,
+        2911.9002,
+        1064.4827
+      ],
+      [
+        1084.6698,
+        1064.4827,
+        1565.1193
+      ]
+    ],
+    "e33": [
+      [
+        0.20215,
+        0.38343000000000005,
+        -0.85494
+      ],
+      [
+        0.10262999999999999,
+        -0.35431999999999997,
+        -0.17463
+      ],
+      [
+        -0.38933999999999996,
+        0.50181,
+        1.4390800000000001
+      ]
+    ],
+    "d33": 16.703509258265584
+  },
+
+  "POSCAR-Li1Al14Mo1N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Li",
+        "amount": 1
+      },
+      "B": {
+        "element": "Mo",
+        "amount": 1
+      }
+    },
+    "energy_per_16": -14.77741466875,
+    "volume_ang3": 345.29321722088997,
+    "rdf_analysis": {
+      "n_peaks": 5,
+      "Peak1_Pos": 1.8699999999999997,
+      "Peak1_Height": 4.987792412862179,
+      "Peak1_FWHM": 0.045862875372155054,
+      "Peak2_Pos": 3.0699999999999994,
+      "Peak2_Height": 4.270637751358576,
+      "Peak2_FWHM": 0.040000000000000036,
+      "Peak2_Pos_Peak1_Pos": 1.641711229946524,
+      "u": 0.18814311574961
+    },
+    "lattice_a": 6.333644409215266,
+    "lattice_c": 9.939242222865525,
+    "c_over_a": 1.569276956629302,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9222355115181793,
+      "cation_n_bond_std": 0.07293143361313731,
+      "cation_n_bond_min": 1.8406176906049811,
+      "cation_n_bond_max": 2.3301312489226076,
+      "cation_n_bond_range": 0.48951355831762644,
+      "al_n_bond_mean": 1.9097887613309368,
+      "al_n_bond_std": 0.050961820097477586,
+      "al_n_bond_min": 1.8406176906049811,
+      "al_n_bond_max": 2.0348814191436206,
+      "al_n_bond_range": 0.1942637285386395,
+      "dopant_n_bond_mean": 2.009362762828878,
+      "dopant_n_bond_std": 0.12528604577079974,
+      "dopant_n_bond_min": 1.938002249231588,
+      "dopant_n_bond_max": 2.3301312489226076,
+      "dopant_n_bond_range": 0.39212899969101955,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.15716347378846,
+      "tetra_angle_std": 5.38545536660449,
+      "tetra_angle_min": 92.87906286545405,
+      "tetra_angle_max": 117.84323056310654,
+      "tetra_angle_range": 24.9641676976525,
+      "tetra_angle_dev_mean": 4.09304745548243,
+      "tetra_angle_dev_std": 3.5140751176857417,
+      "tetra_angle_dev_min": 0.23707625599719506,
+      "tetra_angle_dev_max": 16.59215776854596,
+      "tetra_angle_dev_range": 16.355081512548765,
+      "cation_offcenter_mean": 0.06673751654529088,
+      "cation_offcenter_std": 0.048444197348387306,
+      "cation_offcenter_min": 0.001431788037492031,
+      "cation_offcenter_max": 0.14709676883526637,
+      "cation_offcenter_range": 0.14566498079777435,
+      "cation_n_bond_cv": 0.03794094593306944,
+      "dopant_n_bond_delta": 0.09957400149794138,
+      "lattice_a_len": 6.333644409215266,
+      "lattice_b_len": 6.333659979693815,
+      "lattice_c_len": 9.939242222865525,
+      "lattice_alpha": 90.00021093852308,
+      "lattice_beta": 89.99998646267697,
+      "lattice_gamma": 120.00097816120504,
+      "lattice_angle_deviation": 10.00040087901705,
+      "sg_number": 156,
+      "rdf_n_peaks": 5.0,
+      "rdf_peak_separation": 1.1999999999999997,
+      "rdf_height_ratio_21": 0.8562180214929849,
+      "rdf_width_ratio_21": 0.8721651155846506,
+      "rdf_area_ratio_21": 0.7467634896810899,
+      "rdf_peak1_width_norm": 0.024525601803291476,
+      "rdf_peak2_width_norm": 0.013029315960912067,
+      "rdf_peak2_sharpness": 106.7659437839643,
+      "rdf_sharpness_ratio_21": 0.9817155102781477,
+      "rdf_total_fwhm": 0.08586287537215509,
+      "rdf_local_order": 107.82809362127672,
+      "rdf_disorder": 0.009274020957027096,
+      "rdf_peak_balance": -0.07745963935387776,
+      "rdf_width_balance": -0.06828184295882922,
+      "rdf_gap_over_width": 13.975772355617547,
+      "rdf_gap_over_peak1": 0.6417112299465241,
+      "rdf_peak1_area": 0.22875450181327867,
+      "rdf_peak2_area": 0.17082551005434318,
+      "volume_per_atom": 10.790413038152812,
+      "volume_per_cation": 21.580826076305623,
+      "tetragonal_strain": 0.5692769566293019,
+      "ca_centered_abs": 0.36927695662930193,
+      "u_peak1_pos": 0.3518276264517707,
+      "u_peak2_pos": 0.5775993653513026,
+      "u_rdf_width_ratio": 0.1640918622942149
+    },
+    "c33": [
+      [
+        3409.138,
+        1353.3783,
+        1028.6281
+      ],
+      [
+        1353.3783,
+        3420.2204,
+        1029.0894
+      ],
+      [
+        1028.6281,
+        1029.0894,
+        2441.0916
+      ]
+    ],
+    "e33": [
+      [
+        0.032830000000000005,
+        0.10357,
+        0.17344
+      ],
+      [
+        0.33756,
+        -0.18903999999999999,
+        -0.01703
+      ],
+      [
+        -0.21902,
+        -0.28586,
+        3.10393
+      ]
+    ],
+    "d33": 16.018674075191157
+  },
+
+  "POSCAR-Zr2Al12Ni2N16-3": {
+    "dopants": {
+      "A": {
+        "element": "Zr",
+        "amount": 2
+      },
+      "B": {
+        "element": "Ni",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.058963241875,
+    "volume_ang3": 359.6692874556074,
+    "rdf_analysis": {
+      "n_peaks": 3,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 5.252631766833012,
+      "Peak1_FWHM": 0.07375914807015826,
+      "Peak2_Pos": 3.1099999999999994,
+      "Peak2_Height": 2.6008497580594345,
+      "Peak2_FWHM": 0.10153378255290413,
+      "Peak2_Pos_Peak1_Pos": 1.61139896373057,
+      "u": 0.191829493290564
+    },
+    "lattice_a": 6.420279536441251,
+    "lattice_c": 10.061018078573715,
+    "c_over_a": 1.567068539845933,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9504872367772588,
+      "cation_n_bond_std": 0.0832015036272374,
+      "cation_n_bond_min": 1.8585705413978748,
+      "cation_n_bond_max": 2.2365437485650763,
+      "cation_n_bond_range": 0.3779732071672015,
+      "al_n_bond_mean": 1.913013938107687,
+      "al_n_bond_std": 0.03042069621013729,
+      "al_n_bond_min": 1.8585705413978748,
+      "al_n_bond_max": 1.9889808000433409,
+      "al_n_bond_range": 0.13041025864546607,
+      "dopant_n_bond_mean": 2.062907132785974,
+      "dopant_n_bond_std": 0.08979269007807548,
+      "dopant_n_bond_min": 1.9041061799210208,
+      "dopant_n_bond_max": 2.2365437485650763,
+      "dopant_n_bond_range": 0.3324375686440555,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.16800045637177,
+      "tetra_angle_std": 6.213126164710292,
+      "tetra_angle_min": 95.32794592785582,
+      "tetra_angle_max": 137.15969378560632,
+      "tetra_angle_range": 41.8317478577505,
+      "tetra_angle_dev_mean": 4.574420843180693,
+      "tetra_angle_dev_std": 4.215394781536191,
+      "tetra_angle_dev_min": 0.018332965474542107,
+      "tetra_angle_dev_max": 27.688473151606317,
+      "tetra_angle_dev_range": 27.670140186131775,
+      "cation_offcenter_mean": 0.06071320169736469,
+      "cation_offcenter_std": 0.05509541419125252,
+      "cation_offcenter_min": 0.007158629288452137,
+      "cation_offcenter_max": 0.1852862927957422,
+      "cation_offcenter_range": 0.1781276635072901,
+      "cation_n_bond_cv": 0.042656779320796354,
+      "dopant_n_bond_delta": 0.14989319467828688,
+      "lattice_a_len": 6.420279536441251,
+      "lattice_b_len": 6.420477211093916,
+      "lattice_c_len": 10.061018078573715,
+      "lattice_alpha": 90.78843383043869,
+      "lattice_beta": 89.61250479147554,
+      "lattice_gamma": 119.85086994553579,
+      "lattice_angle_deviation": 10.342266328166312,
+      "sg_number": 1,
+      "rdf_n_peaks": 3.0,
+      "rdf_peak_separation": 1.1799999999999997,
+      "rdf_height_ratio_21": 0.4951517398349007,
+      "rdf_width_ratio_21": 1.376558504394969,
+      "rdf_area_ratio_21": 0.6816053384356978,
+      "rdf_peak1_width_norm": 0.03821717516588512,
+      "rdf_peak2_width_norm": 0.03264751850575696,
+      "rdf_peak2_sharpness": 25.615609826259185,
+      "rdf_sharpness_ratio_21": 0.3597026484918866,
+      "rdf_total_fwhm": 0.1752929306230624,
+      "rdf_local_order": 44.802043624794095,
+      "rdf_disorder": 0.022320410389640923,
+      "rdf_peak_balance": -0.33765687235253206,
+      "rdf_width_balance": 0.15844697435329258,
+      "rdf_gap_over_width": 6.731589207880772,
+      "rdf_gap_over_peak1": 0.6113989637305699,
+      "rdf_peak1_area": 0.38742964424785314,
+      "rdf_peak2_area": 0.26407411378757994,
+      "volume_per_atom": 11.239665232987731,
+      "volume_per_cation": 22.479330465975462,
+      "tetragonal_strain": 0.567068539845933,
+      "ca_centered_abs": 0.367068539845933,
+      "u_peak1_pos": 0.3702309220507885,
+      "u_peak2_pos": 0.596589724133654,
+      "u_rdf_width_ratio": 0.26406452038290357
+    },
+    "c33": [
+      [
+        2962.3022,
+        1437.7573,
+        1142.7322
+      ],
+      [
+        1437.7573,
+        2890.8773,
+        1129.0064
+      ],
+      [
+        1142.7322,
+        1129.0064,
+        2822.9203
+      ]
+    ],
+    "e33": [
+      [
+        -0.36186999999999997,
+        0.43552,
+        -0.19913999999999998
+      ],
+      [
+        0.52964,
+        1.56056,
+        0.8966900000000001
+      ],
+      [
+        -0.6349100000000001,
+        0.060740000000000016,
+        2.68976
+      ]
+    ],
+    "d33": 13.544401022585278
+  },
+
+  "POSCAR-Na1Ti2Al13N16-1": {
+    "dopants": {
+      "A": {
+        "element": "Na",
+        "amount": 1
+      },
+      "B": {
+        "element": "Ti",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.95809819125,
+    "volume_ang3": 353.9761120633204,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9099999999999997,
+      "Peak1_Height": 4.524271407815038,
+      "Peak1_FWHM": 0.04473472468109918,
+      "Peak2_Pos": 3.1899999999999995,
+      "Peak2_Height": 2.9735514219814148,
+      "Peak2_FWHM": 0.05214878676353818,
+      "Peak2_Pos_Peak1_Pos": 1.6701570680628273,
+      "u": 0.19042882268209516
+    },
+    "lattice_a": 6.384582602536878,
+    "lattice_c": 10.029994268192182,
+    "c_over_a": 1.5709710238860124,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9361879031402933,
+      "cation_n_bond_std": 0.07837982245012301,
+      "cation_n_bond_min": 1.8150855471953322,
+      "cation_n_bond_max": 2.2490663456597098,
+      "cation_n_bond_range": 0.43398079846437754,
+      "al_n_bond_mean": 1.9174129131684157,
+      "al_n_bond_std": 0.045041865042093454,
+      "al_n_bond_min": 1.8230976246403037,
+      "al_n_bond_max": 2.007184923386765,
+      "al_n_bond_range": 0.18408729874646124,
+      "dopant_n_bond_mean": 2.0175461930184286,
+      "dopant_n_bond_std": 0.12580450835514,
+      "dopant_n_bond_min": 1.8150855471953322,
+      "dopant_n_bond_max": 2.2490663456597098,
+      "dopant_n_bond_range": 0.43398079846437754,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.32114706894242,
+      "tetra_angle_std": 4.86248627274762,
+      "tetra_angle_min": 94.39641461431654,
+      "tetra_angle_max": 117.88550128886054,
+      "tetra_angle_range": 23.489086674543998,
+      "tetra_angle_dev_mean": 3.7887867082243574,
+      "tetra_angle_dev_std": 3.0514570465878377,
+      "tetra_angle_dev_min": 0.08772305616234632,
+      "tetra_angle_dev_max": 15.074806019683464,
+      "tetra_angle_dev_range": 14.987082963521118,
+      "cation_offcenter_mean": 0.04680270193441177,
+      "cation_offcenter_std": 0.0311457725189864,
+      "cation_offcenter_min": 0.013921836849020737,
+      "cation_offcenter_max": 0.11439474103828581,
+      "cation_offcenter_range": 0.10047290418926508,
+      "cation_n_bond_cv": 0.040481516449410296,
+      "dopant_n_bond_delta": 0.10013327985001297,
+      "lattice_a_len": 6.384582602536878,
+      "lattice_b_len": 6.384582654422687,
+      "lattice_c_len": 10.029994268192182,
+      "lattice_alpha": 89.87193267521893,
+      "lattice_beta": 90.1280681625865,
+      "lattice_gamma": 120.02762009271684,
+      "lattice_angle_deviation": 10.094585193361473,
+      "sg_number": 8,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.2799999999999998,
+      "rdf_height_ratio_21": 0.6572442618815983,
+      "rdf_width_ratio_21": 1.165733937903758,
+      "rdf_area_ratio_21": 0.7661719415678844,
+      "rdf_peak1_width_norm": 0.023421321822565018,
+      "rdf_peak2_width_norm": 0.016347582057535483,
+      "rdf_peak2_sharpness": 57.02052926877461,
+      "rdf_sharpness_ratio_21": 0.563802974685172,
+      "rdf_total_fwhm": 0.09688351144463736,
+      "rdf_local_order": 77.39008132545828,
+      "rdf_disorder": 0.012921552515167594,
+      "rdf_peak_balance": -0.20682270320806204,
+      "rdf_width_balance": 0.07652553021548619,
+      "rdf_gap_over_width": 13.211742441142183,
+      "rdf_gap_over_peak1": 0.6701570680628273,
+      "rdf_peak1_area": 0.20239203581117474,
+      "rdf_peak2_area": 0.15506709903532453,
+      "volume_per_atom": 11.061753501978762,
+      "volume_per_cation": 22.123507003957524,
+      "tetragonal_strain": 0.5709710238860124,
+      "ca_centered_abs": 0.37097102388601244,
+      "u_peak1_pos": 0.3637190513228017,
+      "u_peak2_pos": 0.6074679443558835,
+      "u_rdf_width_ratio": 0.22198934135557524
+    },
+    "c33": [
+      [
+        3171.2457,
+        1303.4358,
+        1138.8819
+      ],
+      [
+        1303.4358,
+        3135.455,
+        1130.0619
+      ],
+      [
+        1138.8819,
+        1130.0619,
+        2604.3214
+      ]
+    ],
+    "e33": [
+      [
+        -0.13917000000000002,
+        -0.05437,
+        -0.06996999999999999
+      ],
+      [
+        0.04074,
+        0.16022,
+        0.061840000000000006
+      ],
+      [
+        -0.61279,
+        -0.8056800000000001,
+        2.80404
+      ]
+    ],
+    "d33": 15.390610158851693
+  },
+
+  "POSCAR-Li1Ti2Al13N16-3": {
+    "dopants": {
+      "A": {
+        "element": "Li",
+        "amount": 1
+      },
+      "B": {
+        "element": "Ti",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.104033415625,
+    "volume_ang3": 347.3264659643225,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9099999999999997,
+      "Peak1_Height": 4.809220380659352,
+      "Peak1_FWHM": 0.0746402413579843,
+      "Peak2_Pos": 3.0699999999999994,
+      "Peak2_Height": 3.579821061289241,
+      "Peak2_FWHM": 0.07036402931017438,
+      "Peak2_Pos_Peak1_Pos": 1.6073298429319371,
+      "u": 0.19163786643862732
+    },
+    "lattice_a": 6.341513538545866,
+    "lattice_c": 9.966715010426626,
+    "c_over_a": 1.5716618674462426,
+    "structure_features": {
+      "cation_n_bond_mean": 1.921209463189447,
+      "cation_n_bond_std": 0.05200683091611985,
+      "cation_n_bond_min": 1.82565937522588,
+      "cation_n_bond_max": 2.0833961843047577,
+      "cation_n_bond_range": 0.25773680907887764,
+      "al_n_bond_mean": 1.9107046892060553,
+      "al_n_bond_std": 0.04152602230018101,
+      "al_n_bond_min": 1.8288626632521146,
+      "al_n_bond_max": 2.007002646434839,
+      "al_n_bond_range": 0.1781399831827244,
+      "dopant_n_bond_mean": 1.9667301504508121,
+      "dopant_n_bond_std": 0.066350277633281,
+      "dopant_n_bond_min": 1.82565937522588,
+      "dopant_n_bond_max": 2.0833961843047577,
+      "dopant_n_bond_range": 0.25773680907887764,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.34654028763312,
+      "tetra_angle_std": 3.7458956137490516,
+      "tetra_angle_min": 99.86463554425602,
+      "tetra_angle_max": 117.35573166338675,
+      "tetra_angle_range": 17.49109611913073,
+      "tetra_angle_dev_mean": 3.0350815961483852,
+      "tetra_angle_dev_std": 2.198990414393824,
+      "tetra_angle_dev_min": 0.00613271786551195,
+      "tetra_angle_dev_max": 9.606585089743987,
+      "tetra_angle_dev_range": 9.600452371878475,
+      "cation_offcenter_mean": 0.04694641396498296,
+      "cation_offcenter_std": 0.025779778126959,
+      "cation_offcenter_min": 0.014352519359095364,
+      "cation_offcenter_max": 0.10412966649713071,
+      "cation_offcenter_range": 0.08977714713803535,
+      "cation_n_bond_cv": 0.02706983903243014,
+      "dopant_n_bond_delta": 0.056025461244756825,
+      "lattice_a_len": 6.341513538545866,
+      "lattice_b_len": 6.342568042437264,
+      "lattice_c_len": 9.966715010426626,
+      "lattice_alpha": 90.04622520529207,
+      "lattice_beta": 90.01601998609088,
+      "lattice_gamma": 119.95484652038742,
+      "lattice_angle_deviation": 10.005697237256792,
+      "sg_number": 1,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.1599999999999997,
+      "rdf_height_ratio_21": 0.7443661920101989,
+      "rdf_width_ratio_21": 0.9427090270608766,
+      "rdf_area_ratio_21": 0.7017207286469442,
+      "rdf_peak1_width_norm": 0.03907866039685043,
+      "rdf_peak2_width_norm": 0.02291987925412847,
+      "rdf_peak2_sharpness": 50.87572579888645,
+      "rdf_sharpness_ratio_21": 0.7896033353270634,
+      "rdf_total_fwhm": 0.14500427066815869,
+      "rdf_local_order": 57.85375426043043,
+      "rdf_disorder": 0.017284962968841567,
+      "rdf_peak_balance": -0.1465482472434357,
+      "rdf_width_balance": -0.029490248998224385,
+      "rdf_gap_over_width": 7.999764383868748,
+      "rdf_gap_over_peak1": 0.6073298429319371,
+      "rdf_peak1_area": 0.3589613699561512,
+      "rdf_peak2_area": 0.25189063408173573,
+      "volume_per_atom": 10.853952061385078,
+      "volume_per_cation": 21.707904122770156,
+      "tetragonal_strain": 0.5716618674462426,
+      "ca_centered_abs": 0.37166186744624263,
+      "u_peak1_pos": 0.36602832489777815,
+      "u_peak2_pos": 0.5883282499665857,
+      "u_rdf_width_ratio": 0.18065874661838058
+    },
+    "c33": [
+      [
+        3317.7608,
+        1317.973,
+        1109.92
+      ],
+      [
+        1317.973,
+        3339.5346,
+        1104.2533
+      ],
+      [
+        1109.92,
+        1104.2533,
+        2465.2545
+      ]
+    ],
+    "e33": [
+      [
+        -0.16654,
+        0.07221999999999999,
+        -0.17057
+      ],
+      [
+        -0.0417,
+        -0.04593,
+        0.012499999999999999
+      ],
+      [
+        -0.80931,
+        -0.86081,
+        2.88218
+      ]
+    ],
+    "d33": 16.908578564737827
+  },
+
+  "POSCAR-Sr2Hf2Al12N16-3": {
+    "dopants": {
+      "A": {
+        "element": "Sr",
+        "amount": 2
+      },
+      "B": {
+        "element": "Hf",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.92501697125,
+    "volume_ang3": 391.09102743010817,
+    "rdf_analysis": {
+      "n_peaks": 5,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 2.8557583675479896,
+      "Peak1_FWHM": 0.1017158085700487,
+      "Peak2_Pos": 3.17,
+      "Peak2_Height": 1.5122357874677832,
+      "Peak2_FWHM": 0.07155198114280337,
+      "Peak2_Pos_Peak1_Pos": 1.6424870466321246,
+      "u": 0.18464559909380202
+    },
+    "lattice_a": 6.539050352837622,
+    "lattice_c": 10.45245599934141,
+    "c_over_a": 1.598466969260386,
+    "structure_features": {
+      "cation_n_bond_mean": 2.0130671887532605,
+      "cation_n_bond_std": 0.14601120207766655,
+      "cation_n_bond_min": 1.8256079015393873,
+      "cation_n_bond_max": 2.4505118149670584,
+      "cation_n_bond_range": 0.624903913427671,
+      "al_n_bond_mean": 1.9507671695159436,
+      "al_n_bond_std": 0.06369954399575481,
+      "al_n_bond_min": 1.8256079015393873,
+      "al_n_bond_max": 2.116518928426982,
+      "al_n_bond_range": 0.29091102688759474,
+      "dopant_n_bond_mean": 2.1999672464652105,
+      "dopant_n_bond_std": 0.16287627221059234,
+      "dopant_n_bond_min": 1.9175161446881424,
+      "dopant_n_bond_max": 2.4505118149670584,
+      "dopant_n_bond_range": 0.532995670278916,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.25142526362674,
+      "tetra_angle_std": 7.432857529646419,
+      "tetra_angle_min": 90.08106340905806,
+      "tetra_angle_max": 124.8010602862581,
+      "tetra_angle_range": 34.719996877200046,
+      "tetra_angle_dev_mean": 5.940405852269932,
+      "tetra_angle_dev_std": 4.472947503735778,
+      "tetra_angle_dev_min": 0.08603988463524104,
+      "tetra_angle_dev_max": 19.390157224941944,
+      "tetra_angle_dev_range": 19.304117340306703,
+      "cation_offcenter_mean": 0.05091616142554106,
+      "cation_offcenter_std": 0.03405907617705256,
+      "cation_offcenter_min": 0.011331680979513904,
+      "cation_offcenter_max": 0.13780535265654636,
+      "cation_offcenter_range": 0.12647367167703247,
+      "cation_n_bond_cv": 0.07253170827750399,
+      "dopant_n_bond_delta": 0.24920007694926682,
+      "lattice_a_len": 6.539050352837622,
+      "lattice_b_len": 6.598052651885099,
+      "lattice_c_len": 10.45245599934141,
+      "lattice_alpha": 89.72593086686494,
+      "lattice_beta": 91.56719904804427,
+      "lattice_gamma": 119.82035120961554,
+      "lattice_angle_deviation": 10.553873130264956,
+      "sg_number": 1,
+      "rdf_n_peaks": 5.0,
+      "rdf_peak_separation": 1.2400000000000002,
+      "rdf_height_ratio_21": 0.5295391251067991,
+      "rdf_width_ratio_21": 0.7034499567835379,
+      "rdf_area_ratio_21": 0.37250427467157027,
+      "rdf_peak1_width_norm": 0.05270249148707187,
+      "rdf_peak2_width_norm": 0.022571602884165102,
+      "rdf_peak2_sharpness": 21.13478569446826,
+      "rdf_sharpness_ratio_21": 0.7527744084711718,
+      "rdf_total_fwhm": 0.17326778971285206,
+      "rdf_local_order": 25.209498904872213,
+      "rdf_disorder": 0.03966758735560313,
+      "rdf_peak_balance": -0.3075834198490027,
+      "rdf_width_balance": -0.17408791026441967,
+      "rdf_gap_over_width": 7.1565523058555165,
+      "rdf_gap_over_peak1": 0.6424870466321245,
+      "rdf_peak1_area": 0.2904757714358261,
+      "rdf_peak2_area": 0.10820346654836722,
+      "volume_per_atom": 12.22159460719088,
+      "volume_per_cation": 24.44318921438176,
+      "tetragonal_strain": 0.5984669692603859,
+      "ca_centered_abs": 0.39846696926038594,
+      "u_peak1_pos": 0.3563660062510378,
+      "u_peak2_pos": 0.5853265491273524,
+      "u_rdf_width_ratio": 0.1298889387028055
+    },
+    "c33": [
+      [
+        2552.6129,
+        1006.2566,
+        952.1302
+      ],
+      [
+        1006.2566,
+        2541.617,
+        1217.2805
+      ],
+      [
+        952.1302,
+        1217.2805,
+        2194.8946
+      ]
+    ],
+    "e33": [
+      [
+        -0.11025,
+        -0.13911,
+        -0.05734
+      ],
+      [
+        0.041319999999999996,
+        -0.026230000000000003,
+        -0.046060000000000004
+      ],
+      [
+        -0.49439,
+        -0.20955000000000001,
+        1.79352
+      ]
+    ],
+    "d33": 12.210834175345513
+  },
+
+  "POSCAR-Zr2Mn2Al12N16-1": {
+    "dopants": {
+      "A": {
+        "element": "Zr",
+        "amount": 2
+      },
+      "B": {
+        "element": "Mn",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.4806716175,
+    "volume_ang3": 359.52051785693095,
+    "rdf_analysis": {
+      "n_peaks": 3,
+      "Peak1_Pos": 1.9099999999999997,
+      "Peak1_Height": 7.658560111969758,
+      "Peak1_FWHM": 0.045580826224570936,
+      "Peak2_Pos": 3.09,
+      "Peak2_Height": 3.511382554997564,
+      "Peak2_FWHM": 0.06918364887153494,
+      "Peak2_Pos_Peak1_Pos": 1.617801047120419,
+      "u": 0.18767537211369212
+    },
+    "lattice_a": 6.412009343325654,
+    "lattice_c": 10.177147797756534,
+    "c_over_a": 1.5872010243325771,
+    "structure_features": {
+      "cation_n_bond_mean": 1.947005583134245,
+      "cation_n_bond_std": 0.09233665683002078,
+      "cation_n_bond_min": 1.7950327415274994,
+      "cation_n_bond_max": 2.3681833415082036,
+      "cation_n_bond_range": 0.5731505999807043,
+      "al_n_bond_mean": 1.911344934484423,
+      "al_n_bond_std": 0.026756521891676495,
+      "al_n_bond_min": 1.86780283818308,
+      "al_n_bond_max": 1.9785188481317375,
+      "al_n_bond_range": 0.11071600994865749,
+      "dopant_n_bond_mean": 2.0539875290837104,
+      "dopant_n_bond_std": 0.12921422538346272,
+      "dopant_n_bond_min": 1.7950327415274994,
+      "dopant_n_bond_max": 2.3681833415082036,
+      "dopant_n_bond_range": 0.5731505999807043,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.22373918880105,
+      "tetra_angle_std": 5.104540014617096,
+      "tetra_angle_min": 90.33410517941309,
+      "tetra_angle_max": 123.9879620547872,
+      "tetra_angle_range": 33.65385687537412,
+      "tetra_angle_dev_mean": 3.4864594419542647,
+      "tetra_angle_dev_std": 3.736599575302768,
+      "tetra_angle_dev_min": 0.03542309307438529,
+      "tetra_angle_dev_max": 19.13711545458692,
+      "tetra_angle_dev_range": 19.101692361512534,
+      "cation_offcenter_mean": 0.05501033754519834,
+      "cation_offcenter_std": 0.05441041988893003,
+      "cation_offcenter_min": 0.018820476312969646,
+      "cation_offcenter_max": 0.22709158937981558,
+      "cation_offcenter_range": 0.20827111306684593,
+      "cation_n_bond_cv": 0.047424957396053964,
+      "dopant_n_bond_delta": 0.1426425945992873,
+      "lattice_a_len": 6.412009343325654,
+      "lattice_b_len": 6.337469195236995,
+      "lattice_c_len": 10.177147797756534,
+      "lattice_alpha": 89.99956112652364,
+      "lattice_beta": 89.85122642918394,
+      "lattice_gamma": 119.61799628022229,
+      "lattice_angle_deviation": 9.922402908171568,
+      "sg_number": 8,
+      "rdf_n_peaks": 3.0,
+      "rdf_peak_separation": 1.1800000000000002,
+      "rdf_height_ratio_21": 0.4584912181481131,
+      "rdf_width_ratio_21": 1.5178234929458254,
+      "rdf_area_ratio_21": 0.6959087422145555,
+      "rdf_peak1_width_norm": 0.023864306923859133,
+      "rdf_peak2_width_norm": 0.02238953037913752,
+      "rdf_peak2_sharpness": 50.75451515310714,
+      "rdf_sharpness_ratio_21": 0.30207149927444016,
+      "rdf_total_fwhm": 0.11476447509610588,
+      "rdf_local_order": 97.32927073132525,
+      "rdf_disorder": 0.010274401446615913,
+      "rdf_peak_balance": -0.3712801113327618,
+      "rdf_width_balance": 0.20566314294731508,
+      "rdf_gap_over_width": 10.281927390961764,
+      "rdf_gap_over_peak1": 0.6178010471204191,
+      "rdf_peak1_area": 0.3490834975941241,
+      "rdf_peak2_area": 0.2429302577385847,
+      "volume_per_atom": 11.235016183029092,
+      "volume_per_cation": 22.470032366058184,
+      "tetragonal_strain": 0.5872010243325771,
+      "ca_centered_abs": 0.3872010243325772,
+      "u_peak1_pos": 0.35845996073715186,
+      "u_peak2_pos": 0.5799168998313086,
+      "u_rdf_width_ratio": 0.2848580888415117
+    },
+    "c33": [
+      [
+        2989.0854,
+        1395.9208,
+        1287.0129
+      ],
+      [
+        1395.9208,
+        2986.643,
+        1243.5453
+      ],
+      [
+        1287.0129,
+        1243.5453,
+        2469.4663
+      ]
+    ],
+    "e33": [
+      [
+        -0.24198999999999998,
+        0.84781,
+        -0.73111
+      ],
+      [
+        -0.37408,
+        -0.7541800000000001,
+        0.10788
+      ],
+      [
+        -0.51913,
+        -0.7707800000000001,
+        1.8588400000000003
+      ]
+    ],
+    "d33": 12.623077917414763
+  },
+
+  "POSCAR-K1Zr2Al13N16-3": {
+    "dopants": {
+      "A": {
+        "element": "K",
+        "amount": 1
+      },
+      "B": {
+        "element": "Zr",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.82417470875,
+    "volume_ang3": 374.98723375001606,
+    "rdf_analysis": {
+      "n_peaks": 5,
+      "Peak1_Pos": 1.9499999999999997,
+      "Peak1_Height": 3.448656611020193,
+      "Peak1_FWHM": 0.0862928896745161,
+      "Peak2_Pos": 3.1899999999999995,
+      "Peak2_Height": 1.861395469386937,
+      "Peak2_FWHM": 0.12387354630753311,
+      "Peak2_Pos_Peak1_Pos": 1.6358974358974359,
+      "u": 0.19015861125378236
+    },
+    "lattice_a": 6.474019089307573,
+    "lattice_c": 10.254597397104272,
+    "c_over_a": 1.5839615632336743,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9811237625781075,
+      "cation_n_bond_std": 0.12085947852925474,
+      "cation_n_bond_min": 1.8229531088186295,
+      "cation_n_bond_max": 2.4198674752704297,
+      "cation_n_bond_range": 0.5969143664518002,
+      "al_n_bond_mean": 1.9397680599745044,
+      "al_n_bond_std": 0.05981676796152956,
+      "al_n_bond_min": 1.8229531088186295,
+      "al_n_bond_max": 2.0978938765693145,
+      "al_n_bond_range": 0.274940767750685,
+      "dopant_n_bond_mean": 2.160331807193722,
+      "dopant_n_bond_std": 0.15123627074585835,
+      "dopant_n_bond_min": 1.962927618386981,
+      "dopant_n_bond_max": 2.4198674752704297,
+      "dopant_n_bond_range": 0.4569398568834486,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 108.80545319106393,
+      "tetra_angle_std": 8.202431534812135,
+      "tetra_angle_min": 82.83593800922193,
+      "tetra_angle_max": 121.6470594737272,
+      "tetra_angle_range": 38.81112146450526,
+      "tetra_angle_dev_mean": 6.001535814254427,
+      "tetra_angle_dev_std": 5.630692430028093,
+      "tetra_angle_dev_min": 0.1249002391777907,
+      "tetra_angle_dev_max": 26.63528262477807,
+      "tetra_angle_dev_range": 26.51038238560028,
+      "cation_offcenter_mean": 0.06863983801842864,
+      "cation_offcenter_std": 0.07734193498478682,
+      "cation_offcenter_min": 0.018993566457032776,
+      "cation_offcenter_max": 0.3495172486308049,
+      "cation_offcenter_range": 0.33052368217377215,
+      "cation_n_bond_cv": 0.06100551657205704,
+      "dopant_n_bond_delta": 0.22056374721921745,
+      "lattice_a_len": 6.474019089307573,
+      "lattice_b_len": 6.510524939719793,
+      "lattice_c_len": 10.254597397104272,
+      "lattice_alpha": 90.48145635763896,
+      "lattice_beta": 90.00037483562723,
+      "lattice_gamma": 119.81706044901684,
+      "lattice_angle_deviation": 10.099630547427674,
+      "sg_number": 8,
+      "rdf_n_peaks": 5.0,
+      "rdf_peak_separation": 1.2399999999999998,
+      "rdf_height_ratio_21": 0.5397450889830092,
+      "rdf_width_ratio_21": 1.4355011956925494,
+      "rdf_area_ratio_21": 0.7748047206042913,
+      "rdf_peak1_width_norm": 0.04425276393564929,
+      "rdf_peak2_width_norm": 0.038831832698286245,
+      "rdf_peak2_sharpness": 15.026577706637758,
+      "rdf_sharpness_ratio_21": 0.37599765893793785,
+      "rdf_total_fwhm": 0.2101664359820492,
+      "rdf_local_order": 25.2659377107231,
+      "rdf_disorder": 0.03957897828488632,
+      "rdf_peak_balance": -0.2989163039454706,
+      "rdf_width_balance": 0.17881378849773552,
+      "rdf_gap_over_width": 5.90008577823488,
+      "rdf_gap_over_peak1": 0.6358974358974359,
+      "rdf_peak1_area": 0.29759454446005607,
+      "rdf_peak2_area": 0.23057765787373508,
+      "volume_per_atom": 11.718351054688002,
+      "volume_per_cation": 23.436702109376004,
+      "tetragonal_strain": 0.5839615632336743,
+      "ca_centered_abs": 0.38396156323367436,
+      "u_peak1_pos": 0.37080929194487555,
+      "u_peak2_pos": 0.6066059698995656,
+      "u_rdf_width_ratio": 0.2729729138260393
+    },
+    "c33": [
+      [
+        2678.16,
+        1190.4679,
+        1040.2345
+      ],
+      [
+        1190.4679,
+        2822.4975,
+        1193.2766
+      ],
+      [
+        1040.2345,
+        1193.2766,
+        2429.6667
+      ]
+    ],
+    "e33": [
+      [
+        -0.01353,
+        -0.01187,
+        -0.02983
+      ],
+      [
+        -0.20145,
+        -0.2644,
+        0.12841
+      ],
+      [
+        -0.48495000000000005,
+        -0.22863,
+        1.56969
+      ]
+    ],
+    "d33": 9.787388543083837
+  },
+
+  "POSCAR-Ta1Be2Al13N16-3": {
+    "dopants": {
+      "A": {
+        "element": "Ta",
+        "amount": 1
+      },
+      "B": {
+        "element": "Be",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.102467295,
+    "volume_ang3": 337.2057686683253,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.8899999999999997,
+      "Peak1_Height": 5.502028428108588,
+      "Peak1_FWHM": 0.06403133544227035,
+      "Peak2_Pos": 3.0699999999999994,
+      "Peak2_Height": 3.1974684237503763,
+      "Peak2_FWHM": 0.082378761617246,
+      "Peak2_Pos_Peak1_Pos": 1.6243386243386242,
+      "u": 0.19102998700185939
+    },
+    "lattice_a": 6.27067499455142,
+    "lattice_c": 9.893734641680123,
+    "c_over_a": 1.5777782535814362,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9029159827426736,
+      "cation_n_bond_std": 0.05238626279518906,
+      "cation_n_bond_min": 1.7388223218468455,
+      "cation_n_bond_max": 2.0301880365466007,
+      "cation_n_bond_range": 0.29136571469975525,
+      "al_n_bond_mean": 1.9070289240416345,
+      "al_n_bond_std": 0.04728201780224671,
+      "al_n_bond_min": 1.840320682196695,
+      "al_n_bond_max": 2.0301880365466007,
+      "al_n_bond_range": 0.18986735434990565,
+      "dopant_n_bond_mean": 1.885093237113841,
+      "dopant_n_bond_std": 0.06751198973156972,
+      "dopant_n_bond_min": 1.7388223218468455,
+      "dopant_n_bond_max": 1.9575408889517272,
+      "dopant_n_bond_range": 0.2187185671048817,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.31225139588805,
+      "tetra_angle_std": 4.070815809147816,
+      "tetra_angle_min": 100.76616309930787,
+      "tetra_angle_max": 117.58068055805934,
+      "tetra_angle_range": 16.814517458751467,
+      "tetra_angle_dev_mean": 3.3472650326109132,
+      "tetra_angle_dev_std": 2.3222035595817045,
+      "tetra_angle_dev_min": 0.11073211844876596,
+      "tetra_angle_dev_max": 8.70505753469213,
+      "tetra_angle_dev_range": 8.594325416243365,
+      "cation_offcenter_mean": 0.05757052328105698,
+      "cation_offcenter_std": 0.024165549409019736,
+      "cation_offcenter_min": 0.035124703777508086,
+      "cation_offcenter_max": 0.10987614393218956,
+      "cation_offcenter_range": 0.07475144015468146,
+      "cation_n_bond_cv": 0.027529467023386246,
+      "dopant_n_bond_delta": -0.021935686927793574,
+      "lattice_a_len": 6.27067499455142,
+      "lattice_b_len": 6.270718423584387,
+      "lattice_c_len": 9.893734641680123,
+      "lattice_alpha": 89.86931676492136,
+      "lattice_beta": 90.1311706407848,
+      "lattice_gamma": 119.9143846878507,
+      "lattice_angle_deviation": 10.058746187904712,
+      "sg_number": 8,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.1799999999999997,
+      "rdf_height_ratio_21": 0.5811435665099896,
+      "rdf_width_ratio_21": 1.2865382401951837,
+      "rdf_area_ratio_21": 0.7476634213585146,
+      "rdf_peak1_width_norm": 0.03387901346151871,
+      "rdf_peak2_width_norm": 0.026833472839493815,
+      "rdf_peak2_sharpness": 38.814232709720486,
+      "rdf_sharpness_ratio_21": 0.4517110711157897,
+      "rdf_total_fwhm": 0.14641009705951635,
+      "rdf_local_order": 59.418694656848565,
+      "rdf_disorder": 0.016829720103666745,
+      "rdf_peak_balance": -0.2649072749380625,
+      "rdf_width_balance": 0.1253153064130361,
+      "rdf_gap_over_width": 8.059553430391652,
+      "rdf_gap_over_peak1": 0.6243386243386243,
+      "rdf_peak1_area": 0.3523022278931285,
+      "rdf_peak2_area": 0.26340348905880356,
+      "volume_per_atom": 10.537680270885165,
+      "volume_per_cation": 21.07536054177033,
+      "tetragonal_strain": 0.5777782535814362,
+      "ca_centered_abs": 0.37777825358143624,
+      "u_peak1_pos": 0.36104667543351415,
+      "u_peak2_pos": 0.5864620600957082,
+      "u_rdf_width_ratio": 0.245767383301881
+    },
+    "c33": [
+      [
+        3489.3838,
+        1353.7648,
+        1054.6928
+      ],
+      [
+        1353.7648,
+        3466.968,
+        1075.3152
+      ],
+      [
+        1054.6928,
+        1075.3152,
+        2850.769
+      ]
+    ],
+    "e33": [
+      [
+        -0.030000000000000002,
+        -0.00705,
+        -0.41468999999999995
+      ],
+      [
+        0.0026300000000000073,
+        -0.06791,
+        0.21391000000000002
+      ],
+      [
+        -0.73723,
+        -0.79318,
+        1.8170799999999998
+      ]
+    ],
+    "d33": 8.941064407330257
+  },
+
+  "POSCAR-Zr1Mn1Al14N16-1": {
+    "dopants": {
+      "A": {
+        "element": "Zr",
+        "amount": 1
+      },
+      "B": {
+        "element": "Mn",
+        "amount": 1
+      }
+    },
+    "energy_per_16": -15.0904758,
+    "volume_ang3": 350.8909735086393,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 6.588556386922267,
+      "Peak1_FWHM": 0.040000000000000036,
+      "Peak2_Pos": 3.17,
+      "Peak2_Height": 3.663343304090012,
+      "Peak2_FWHM": 0.09354253844340299,
+      "Peak2_Pos_Peak1_Pos": 1.6424870466321246,
+      "u": 0.19236204393966197
+    },
+    "lattice_a": 6.354387266013437,
+    "lattice_c": 10.033164341949814,
+    "c_over_a": 1.5789349817585696,
+    "structure_features": {
+      "cation_n_bond_mean": 1.92707476070815,
+      "cation_n_bond_std": 0.04554318364055702,
+      "cation_n_bond_min": 1.864004931257673,
+      "cation_n_bond_max": 2.0814681713467174,
+      "cation_n_bond_range": 0.21746324008904439,
+      "al_n_bond_mean": 1.9140265348387264,
+      "al_n_bond_std": 0.027843293055771354,
+      "al_n_bond_min": 1.864004931257673,
+      "al_n_bond_max": 1.9742251136930433,
+      "al_n_bond_range": 0.11022018243537035,
+      "dopant_n_bond_mean": 2.0184123417941127,
+      "dopant_n_bond_std": 0.04040250888994141,
+      "dopant_n_bond_min": 1.9653075953602752,
+      "dopant_n_bond_max": 2.0814681713467174,
+      "dopant_n_bond_range": 0.11616057598644214,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.38022912683125,
+      "tetra_angle_std": 3.4308371511471862,
+      "tetra_angle_min": 102.92680689116202,
+      "tetra_angle_max": 116.70869939908103,
+      "tetra_angle_range": 13.78189250791901,
+      "tetra_angle_dev_mean": 2.8513293973911953,
+      "tetra_angle_dev_std": 1.9101946706137953,
+      "tetra_angle_dev_min": 0.018793070926065525,
+      "tetra_angle_dev_max": 7.237478765081022,
+      "tetra_angle_dev_range": 7.218685694154956,
+      "cation_offcenter_mean": 0.035829666605460365,
+      "cation_offcenter_std": 0.025180223958458314,
+      "cation_offcenter_min": 0.006460473987766147,
+      "cation_offcenter_max": 0.08085158600751102,
+      "cation_offcenter_range": 0.07439111201974488,
+      "cation_n_bond_cv": 0.023633324751667174,
+      "dopant_n_bond_delta": 0.10438580695538624,
+      "lattice_a_len": 6.354387266013437,
+      "lattice_b_len": 6.355071143971466,
+      "lattice_c_len": 10.033164341949814,
+      "lattice_alpha": 90.03892194235952,
+      "lattice_beta": 90.00006741008929,
+      "lattice_gamma": 119.99778875649847,
+      "lattice_angle_deviation": 10.012259369649092,
+      "sg_number": 8,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.2400000000000002,
+      "rdf_height_ratio_21": 0.556016081362139,
+      "rdf_width_ratio_21": 2.3385634610850725,
+      "rdf_area_ratio_21": 1.3002788916492032,
+      "rdf_peak1_width_norm": 0.02072538860103629,
+      "rdf_peak2_width_norm": 0.029508687206120817,
+      "rdf_peak2_sharpness": 39.162325130897344,
+      "rdf_sharpness_ratio_21": 0.23775967195867864,
+      "rdf_total_fwhm": 0.13354253844340302,
+      "rdf_local_order": 76.76879450181458,
+      "rdf_disorder": 0.013026126129626317,
+      "rdf_peak_balance": -0.2853337596930211,
+      "rdf_width_balance": 0.4009399481805937,
+      "rdf_gap_over_width": 9.285430803200791,
+      "rdf_gap_over_peak1": 0.6424870466321245,
+      "rdf_peak1_area": 0.2635422554768909,
+      "rdf_peak2_area": 0.34267843185422286,
+      "volume_per_atom": 10.965342922144979,
+      "volume_per_cation": 21.930685844289957,
+      "tetragonal_strain": 0.5789349817585696,
+      "ca_centered_abs": 0.37893498175856966,
+      "u_peak1_pos": 0.37125874480354754,
+      "u_peak2_pos": 0.6097876792887285,
+      "u_rdf_width_ratio": 0.4498508472569347
+    },
+    "c33": [
+      [
+        3287.1641,
+        1345.5312,
+        1343.6786
+      ],
+      [
+        1345.5312,
+        3361.4022,
+        1265.4586
+      ],
+      [
+        1343.6786,
+        1265.4586,
+        2262.4466
+      ]
+    ],
+    "e33": [
+      [
+        -0.029959999999999997,
+        0.00232,
+        -0.00574
+      ],
+      [
+        -0.07604000000000001,
+        -0.33784000000000003,
+        -0.10999
+      ],
+      [
+        -0.59118,
+        -0.62376,
+        1.62287
+      ]
+    ],
+    "d33": 13.255605644636395
+  },
+
+  "POSCAR-K1Hf2Al13N16-2": {
+    "dopants": {
+      "A": {
+        "element": "K",
+        "amount": 1
+      },
+      "B": {
+        "element": "Hf",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.0406704575,
+    "volume_ang3": 373.30809719071175,
+    "rdf_analysis": {
+      "n_peaks": 3,
+      "Peak1_Pos": 1.9699999999999998,
+      "Peak1_Height": 4.485143962569347,
+      "Peak1_FWHM": 0.04712014075418414,
+      "Peak2_Pos": 3.249999999999999,
+      "Peak2_Height": 2.197256988318471,
+      "Peak2_FWHM": 0.12899252497661395,
+      "Peak2_Pos_Peak1_Pos": 1.6497461928934007,
+      "u": 0.1916627670192192
+    },
+    "lattice_a": 6.470619179589567,
+    "lattice_c": 10.278469995178854,
+    "c_over_a": 1.5884832208330981,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9765832701749937,
+      "cation_n_bond_std": 0.11820181042469954,
+      "cation_n_bond_min": 1.8283517535773433,
+      "cation_n_bond_max": 2.4147621472394043,
+      "cation_n_bond_range": 0.586410393662061,
+      "al_n_bond_mean": 1.9366776851485112,
+      "al_n_bond_std": 0.05349915595192963,
+      "al_n_bond_min": 1.8283517535773433,
+      "al_n_bond_max": 2.0994470956862386,
+      "al_n_bond_range": 0.2710953421088953,
+      "dopant_n_bond_mean": 2.1495074719564182,
+      "dopant_n_bond_std": 0.1590894390662329,
+      "dopant_n_bond_min": 1.9718055727367494,
+      "dopant_n_bond_max": 2.4147621472394043,
+      "dopant_n_bond_range": 0.4429565745026549,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 108.84410456434127,
+      "tetra_angle_std": 7.882696977133692,
+      "tetra_angle_min": 83.70663369320471,
+      "tetra_angle_max": 120.75205636251015,
+      "tetra_angle_range": 37.04542266930544,
+      "tetra_angle_dev_mean": 5.957322155557892,
+      "tetra_angle_dev_std": 5.200047974109082,
+      "tetra_angle_dev_min": 0.05677045352203436,
+      "tetra_angle_dev_max": 25.764586940795297,
+      "tetra_angle_dev_range": 25.707816487273263,
+      "cation_offcenter_mean": 0.0681355547614945,
+      "cation_offcenter_std": 0.0729586647644595,
+      "cation_offcenter_min": 0.019349798864932728,
+      "cation_offcenter_max": 0.34104090621809824,
+      "cation_offcenter_range": 0.32169110735316553,
+      "cation_n_bond_cv": 0.05980107805639513,
+      "dopant_n_bond_delta": 0.21282978680790698,
+      "lattice_a_len": 6.470619179589567,
+      "lattice_b_len": 6.4868045446390346,
+      "lattice_c_len": 10.278469995178854,
+      "lattice_alpha": 89.99970268917687,
+      "lattice_beta": 90.04714478119534,
+      "lattice_gamma": 120.08398296911544,
+      "lattice_angle_deviation": 10.043808353711304,
+      "sg_number": 8,
+      "rdf_n_peaks": 3.0,
+      "rdf_peak_separation": 1.2799999999999994,
+      "rdf_height_ratio_21": 0.48989664694280105,
+      "rdf_width_ratio_21": 2.7375241863037045,
+      "rdf_area_ratio_21": 1.3411039197950045,
+      "rdf_peak1_width_norm": 0.023918853174712762,
+      "rdf_peak2_width_norm": 0.039690007685111994,
+      "rdf_peak2_sharpness": 17.033986959452328,
+      "rdf_sharpness_ratio_21": 0.17895609813927368,
+      "rdf_total_fwhm": 0.1761126657307981,
+      "rdf_local_order": 37.94389757919165,
+      "rdf_disorder": 0.026354699010899655,
+      "rdf_peak_balance": -0.3423749923217207,
+      "rdf_width_balance": 0.4648864059986357,
+      "rdf_gap_over_width": 7.26807464238023,
+      "rdf_gap_over_peak1": 0.6497461928934007,
+      "rdf_peak1_area": 0.2113406148190468,
+      "rdf_peak2_area": 0.2834297269457099,
+      "volume_per_atom": 11.665878037209742,
+      "volume_per_cation": 23.331756074419484,
+      "tetragonal_strain": 0.5884832208330981,
+      "ca_centered_abs": 0.38848322083309816,
+      "u_peak1_pos": 0.3775756510278618,
+      "u_peak2_pos": 0.6229039928124622,
+      "u_rdf_width_ratio": 0.5246814603290045
+    },
+    "c33": [
+      [
+        2721.1365,
+        1216.8187,
+        1153.8156
+      ],
+      [
+        1216.8187,
+        2777.8999,
+        1080.7028
+      ],
+      [
+        1153.8156,
+        1080.7028,
+        2633.9923
+      ]
+    ],
+    "e33": [
+      [
+        -0.06265,
+        -0.0336,
+        -0.05813
+      ],
+      [
+        -0.03883,
+        -0.19433,
+        -0.07224
+      ],
+      [
+        -0.8312799999999999,
+        -0.52101,
+        1.0059500000000001
+      ]
+    ],
+    "d33": 7.626072722051163
+  },
+
+  "POSCAR-Hf1Mn1Al14N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Hf",
+        "amount": 1
+      },
+      "B": {
+        "element": "Mn",
+        "amount": 1
+      }
+    },
+    "energy_per_16": -15.202022955625,
+    "volume_ang3": 350.19415920025875,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 6.940776580293548,
+      "Peak1_FWHM": 0.040000000000000036,
+      "Peak2_Pos": 3.1499999999999995,
+      "Peak2_Height": 3.428372344079171,
+      "Peak2_FWHM": 0.08862979675161231,
+      "Peak2_Pos_Peak1_Pos": 1.6321243523316062,
+      "u": 0.19239564443890594
+    },
+    "lattice_a": 6.349272911657021,
+    "lattice_c": 10.031412122808526,
+    "c_over_a": 1.579930846001475,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9255619143443108,
+      "cation_n_bond_std": 0.042940746548775326,
+      "cation_n_bond_min": 1.8616439608172375,
+      "cation_n_bond_max": 2.0550885032645385,
+      "cation_n_bond_range": 0.19344454244730103,
+      "al_n_bond_mean": 1.9134456299937723,
+      "al_n_bond_std": 0.027860383382475058,
+      "al_n_bond_min": 1.8616439608172375,
+      "al_n_bond_max": 1.9705453973713158,
+      "al_n_bond_range": 0.10890143655407836,
+      "dopant_n_bond_mean": 2.0103759047980807,
+      "dopant_n_bond_std": 0.03311814571901577,
+      "dopant_n_bond_min": 1.9642886219462934,
+      "dopant_n_bond_max": 2.0550885032645385,
+      "dopant_n_bond_range": 0.09079988131824512,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.38432612975316,
+      "tetra_angle_std": 3.297238300742982,
+      "tetra_angle_min": 103.51614415870239,
+      "tetra_angle_max": 116.53370505940289,
+      "tetra_angle_range": 13.017560900700502,
+      "tetra_angle_dev_mean": 2.7329934252899846,
+      "tetra_angle_dev_std": 1.8466396519290083,
+      "tetra_angle_dev_min": 0.11808507917356792,
+      "tetra_angle_dev_max": 7.062484425402886,
+      "tetra_angle_dev_range": 6.944399346229318,
+      "cation_offcenter_mean": 0.03509404171755338,
+      "cation_offcenter_std": 0.02484410514926522,
+      "cation_offcenter_min": 0.005121077461954167,
+      "cation_offcenter_max": 0.08021928479732382,
+      "cation_offcenter_range": 0.07509820733536965,
+      "cation_n_bond_cv": 0.022300371766231904,
+      "dopant_n_bond_delta": 0.09693027480430838,
+      "lattice_a_len": 6.349272911657021,
+      "lattice_b_len": 6.349304635370811,
+      "lattice_c_len": 10.031412122808526,
+      "lattice_alpha": 89.96654016050515,
+      "lattice_beta": 90.03345831836651,
+      "lattice_gamma": 120.0077376736135,
+      "lattice_angle_deviation": 10.02488527715829,
+      "sg_number": 8,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.2199999999999998,
+      "rdf_height_ratio_21": 0.4939465064778348,
+      "rdf_width_ratio_21": 2.215744918790306,
+      "rdf_area_ratio_21": 1.0944594618824852,
+      "rdf_peak1_width_norm": 0.02072538860103629,
+      "rdf_peak2_width_norm": 0.02813644341321026,
+      "rdf_peak2_sharpness": 38.68193846463722,
+      "rdf_sharpness_ratio_21": 0.22292570877134482,
+      "rdf_total_fwhm": 0.12862979675161235,
+      "rdf_local_order": 80.61234011273321,
+      "rdf_disorder": 0.012405048638974368,
+      "rdf_peak_balance": -0.3387360198828333,
+      "rdf_width_balance": 0.3780601227685817,
+      "rdf_gap_over_width": 9.48458312777912,
+      "rdf_gap_over_peak1": 0.6321243523316061,
+      "rdf_peak1_area": 0.2776310632117422,
+      "rdf_peak2_area": 0.3038559440445856,
+      "volume_per_atom": 10.943567475008086,
+      "volume_per_cation": 21.887134950016172,
+      "tetragonal_strain": 0.5799308460014749,
+      "ca_centered_abs": 0.379930846001475,
+      "u_peak1_pos": 0.3713235937670884,
+      "u_peak2_pos": 0.6060462799825537,
+      "u_rdf_width_ratio": 0.4262996715628922
+    },
+    "c33": [
+      [
+        3360.4327,
+        1367.8024,
+        1276.8268
+      ],
+      [
+        1367.8024,
+        3344.3781,
+        1311.0194
+      ],
+      [
+        1276.8268,
+        1311.0194,
+        2311.7799
+      ]
+    ],
+    "e33": [
+      [
+        -0.013260000000000001,
+        -0.03556,
+        -0.09505000000000001
+      ],
+      [
+        0.16265000000000002,
+        -0.20486,
+        0.024730000000000002
+      ],
+      [
+        -0.92013,
+        -0.92867,
+        1.06613
+      ]
+    ],
+    "d33": 9.635649868074283
+  },
+
+  "POSCAR-Na1Al14Mo1N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Na",
+        "amount": 1
+      },
+      "B": {
+        "element": "Mo",
+        "amount": 1
+      }
+    },
+    "energy_per_16": -14.67070491625,
+    "volume_ang3": 352.8666876615462,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 6.2575618057082325,
+      "Peak1_FWHM": 0.053579935298698755,
+      "Peak2_Pos": 3.1899999999999995,
+      "Peak2_Height": 3.2337073967548084,
+      "Peak2_FWHM": 0.03999999999999915,
+      "Peak2_Pos_Peak1_Pos": 1.6528497409326424,
+      "u": 0.19171617351628512
+    },
+    "lattice_a": 6.365632809149464,
+    "lattice_c": 10.066964954503737,
+    "c_over_a": 1.5814554901806883,
+    "structure_features": {
+      "cation_n_bond_mean": 1.935933145038101,
+      "cation_n_bond_std": 0.08460333417575085,
+      "cation_n_bond_min": 1.8242906079266832,
+      "cation_n_bond_max": 2.2541233546573856,
+      "cation_n_bond_range": 0.4298327467307024,
+      "al_n_bond_mean": 1.9170644935910286,
+      "al_n_bond_std": 0.051139421391201124,
+      "al_n_bond_min": 1.8242906079266832,
+      "al_n_bond_max": 2.1685217050825694,
+      "al_n_bond_range": 0.3442310971558862,
+      "dopant_n_bond_mean": 2.0680137051676093,
+      "dopant_n_bond_std": 0.13790450997519937,
+      "dopant_n_bond_min": 1.8455590181415962,
+      "dopant_n_bond_max": 2.2541233546573856,
+      "dopant_n_bond_range": 0.4085643365157894,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.26333128061161,
+      "tetra_angle_std": 5.407556504114692,
+      "tetra_angle_min": 95.10723288070568,
+      "tetra_angle_max": 119.64350630456835,
+      "tetra_angle_range": 24.536273423862667,
+      "tetra_angle_dev_mean": 4.137519278893767,
+      "tetra_angle_dev_std": 3.487953489544803,
+      "tetra_angle_dev_min": 0.39693943044544255,
+      "tetra_angle_dev_max": 14.363987753294325,
+      "tetra_angle_dev_range": 13.967048322848882,
+      "cation_offcenter_mean": 0.05367590019772703,
+      "cation_offcenter_std": 0.0381307407836211,
+      "cation_offcenter_min": 0.018658113984882173,
+      "cation_offcenter_max": 0.18739373201214113,
+      "cation_offcenter_range": 0.16873561802725895,
+      "cation_n_bond_cv": 0.043701578431359404,
+      "dopant_n_bond_delta": 0.1509492115765807,
+      "lattice_a_len": 6.365632809149464,
+      "lattice_b_len": 6.3602557739356405,
+      "lattice_c_len": 10.066964954503737,
+      "lattice_alpha": 90.24522516276188,
+      "lattice_beta": 89.99982125023328,
+      "lattice_gamma": 120.02954865336207,
+      "lattice_angle_deviation": 10.09165085529689,
+      "sg_number": 8,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.2599999999999998,
+      "rdf_height_ratio_21": 0.5167679516652919,
+      "rdf_width_ratio_21": 0.7465481206165359,
+      "rdf_area_ratio_21": 0.3857921431105806,
+      "rdf_peak1_width_norm": 0.027761624507097803,
+      "rdf_peak2_width_norm": 0.01253918495297779,
+      "rdf_peak2_sharpness": 80.84268491887194,
+      "rdf_sharpness_ratio_21": 0.6922098353667004,
+      "rdf_total_fwhm": 0.0935799352986979,
+      "rdf_local_order": 101.42419068967988,
+      "rdf_disorder": 0.0098595807686514,
+      "rdf_peak_balance": -0.31859326128572096,
+      "rdf_width_balance": -0.14511588681220816,
+      "rdf_gap_over_width": 13.464424782708006,
+      "rdf_gap_over_peak1": 0.6528497409326425,
+      "rdf_peak1_area": 0.33527975667745563,
+      "rdf_peak2_area": 0.1293482958701896,
+      "volume_per_atom": 11.02708398942332,
+      "volume_per_cation": 22.05416797884664,
+      "tetragonal_strain": 0.5814554901806883,
+      "ca_centered_abs": 0.38145549018068836,
+      "u_peak1_pos": 0.3700122148864302,
+      "u_peak2_pos": 0.6115745935169494,
+      "u_rdf_width_ratio": 0.14312534903037633
+    },
+    "c33": [
+      [
+        3220.3789,
+        1293.6488,
+        995.2472
+      ],
+      [
+        1293.6488,
+        3279.2114,
+        1067.0924
+      ],
+      [
+        995.2472,
+        1067.0924,
+        2736.3377
+      ]
+    ],
+    "e33": [
+      [
+        -0.04498,
+        0.011200000000000002,
+        -0.40196
+      ],
+      [
+        -0.12823,
+        -0.09868000000000002,
+        0.33530000000000004
+      ],
+      [
+        -0.59318,
+        -0.51783,
+        1.8347399999999998
+      ]
+    ],
+    "d33": 9.124392140221058
+  },
+
+  "POSCAR-Na2Al12Cr2N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Na",
+        "amount": 2
+      },
+      "B": {
+        "element": "Cr",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -14.35865802,
+    "volume_ang3": 357.0936884432826,
+    "rdf_analysis": {
+      "n_peaks": 4,
+      "Peak1_Pos": 1.9299999999999997,
+      "Peak1_Height": 3.35251129175127,
+      "Peak1_FWHM": 0.07668864331936986,
+      "Peak2_Pos": 3.13,
+      "Peak2_Height": 2.9742192317471217,
+      "Peak2_FWHM": 0.11105457212789593,
+      "Peak2_Pos_Peak1_Pos": 1.6217616580310883,
+      "u": 0.1906020392655671
+    },
+    "lattice_a": 6.374328290399122,
+    "lattice_c": 10.125809815239792,
+    "c_over_a": 1.5885297013163053,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9444488431695972,
+      "cation_n_bond_std": 0.11994988915607348,
+      "cation_n_bond_min": 1.6503857238713753,
+      "cation_n_bond_max": 2.3047974021065682,
+      "cation_n_bond_range": 0.654411678235193,
+      "al_n_bond_mean": 1.9203810185968482,
+      "al_n_bond_std": 0.06338407239592744,
+      "al_n_bond_min": 1.7999291066934726,
+      "al_n_bond_max": 2.0758090261663975,
+      "al_n_bond_range": 0.2758799194729249,
+      "dopant_n_bond_mean": 2.0166523168878454,
+      "dopant_n_bond_std": 0.19633685231704504,
+      "dopant_n_bond_min": 1.6503857238713753,
+      "dopant_n_bond_max": 2.3047974021065682,
+      "dopant_n_bond_range": 0.654411678235193,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.32853742414379,
+      "tetra_angle_std": 5.6877505249455185,
+      "tetra_angle_min": 88.5571821730581,
+      "tetra_angle_max": 125.35454632940684,
+      "tetra_angle_range": 36.79736415634875,
+      "tetra_angle_dev_mean": 4.20284637090585,
+      "tetra_angle_dev_std": 3.8349637436299733,
+      "tetra_angle_dev_min": 0.02280167065028138,
+      "tetra_angle_dev_max": 20.91403846094191,
+      "tetra_angle_dev_range": 20.89123679029163,
+      "cation_offcenter_mean": 0.05132008121811149,
+      "cation_offcenter_std": 0.031828983966807396,
+      "cation_offcenter_min": 0.013627865153412291,
+      "cation_offcenter_max": 0.13586034674882844,
+      "cation_offcenter_range": 0.12223248159541615,
+      "cation_n_bond_cv": 0.061688374871588895,
+      "dopant_n_bond_delta": 0.09627129829099723,
+      "lattice_a_len": 6.374328290399122,
+      "lattice_b_len": 6.398021773572467,
+      "lattice_c_len": 10.125809815239792,
+      "lattice_alpha": 91.03762495210245,
+      "lattice_beta": 89.62294613225356,
+      "lattice_gamma": 120.1333888843857,
+      "lattice_angle_deviation": 10.516022568078194,
+      "sg_number": 1,
+      "rdf_n_peaks": 4.0,
+      "rdf_peak_separation": 1.2000000000000002,
+      "rdf_height_ratio_21": 0.8871615851272681,
+      "rdf_width_ratio_21": 1.448122790038274,
+      "rdf_area_ratio_21": 1.284718909869277,
+      "rdf_peak1_width_norm": 0.039735048352005115,
+      "rdf_peak2_width_norm": 0.03548069397057378,
+      "rdf_peak2_sharpness": 26.78160092609122,
+      "rdf_sharpness_ratio_21": 0.6126287019513175,
+      "rdf_total_fwhm": 0.1877432154472658,
+      "rdf_local_order": 33.69885036019037,
+      "rdf_disorder": 0.029674602822099085,
+      "rdf_peak_balance": -0.05979266203912384,
+      "rdf_width_balance": 0.18304751373654263,
+      "rdf_gap_over_width": 6.391709000728508,
+      "rdf_gap_over_peak1": 0.6217616580310883,
+      "rdf_peak1_area": 0.2570995426772731,
+      "rdf_peak2_area": 0.33030064419623595,
+      "volume_per_atom": 11.15917776385258,
+      "volume_per_cation": 22.31835552770516,
+      "tetragonal_strain": 0.5885297013163053,
+      "ca_centered_abs": 0.3885297013163054,
+      "u_peak1_pos": 0.36786193578254445,
+      "u_peak2_pos": 0.596584382901225,
+      "u_rdf_width_ratio": 0.2760151568882377
+    },
+    "c33": [
+      [
+        2857.5717,
+        1187.0201,
+        1062.4073
+      ],
+      [
+        1187.0201,
+        2883.9892,
+        1095.7112
+      ],
+      [
+        1062.4073,
+        1095.7112,
+        2329.4285
+      ]
+    ],
+    "e33": [
+      [
+        1.1203800000000002,
+        0.66203,
+        0.6355299999999999
+      ],
+      [
+        0.44564,
+        -0.79666,
+        0.75942
+      ],
+      [
+        -0.328,
+        -0.10821000000000003,
+        1.71118
+      ]
+    ],
+    "d33": 10.63342297747418
+  },
+
+  "POSCAR-Hf2Mn2Al12N16-2": {
+    "dopants": {
+      "A": {
+        "element": "Hf",
+        "amount": 2
+      },
+      "B": {
+        "element": "Mn",
+        "amount": 2
+      }
+    },
+    "energy_per_16": -15.74562270625,
+    "volume_ang3": 355.97353274579876,
+    "rdf_analysis": {
+      "n_peaks": 3,
+      "Peak1_Pos": 1.9099999999999997,
+      "Peak1_Height": 7.962151787073434,
+      "Peak1_FWHM": 0.040000000000000036,
+      "Peak2_Pos": 3.1499999999999995,
+      "Peak2_Height": 2.648563475285987,
+      "Peak2_FWHM": 0.07500468812775285,
+      "Peak2_Pos_Peak1_Pos": 1.649214659685864,
+      "u": 0.18751652290236187
+    },
+    "lattice_a": 6.349520847237373,
+    "lattice_c": 10.185769074837843,
+    "c_over_a": 1.604179168774537,
+    "structure_features": {
+      "cation_n_bond_mean": 1.9405593536603067,
+      "cation_n_bond_std": 0.08132927042136551,
+      "cation_n_bond_min": 1.8226180162305314,
+      "cation_n_bond_max": 2.3266721440113263,
+      "cation_n_bond_range": 0.5040541277807948,
+      "al_n_bond_mean": 1.9137487305321663,
+      "al_n_bond_std": 0.02753134306298572,
+      "al_n_bond_min": 1.8717600555276683,
+      "al_n_bond_max": 1.9928934840004626,
+      "al_n_bond_range": 0.12113342847279429,
+      "dopant_n_bond_mean": 2.020991223044727,
+      "dopant_n_bond_std": 0.12473236230546157,
+      "dopant_n_bond_min": 1.8226180162305314,
+      "dopant_n_bond_max": 2.3266721440113263,
+      "dopant_n_bond_range": 0.5040541277807948,
+      "cation_n_coord_mean": 4.0,
+      "cation_n_coord_std": 0.0,
+      "cation_n_coord_min": 4.0,
+      "cation_n_coord_max": 4.0,
+      "cation_n_coord_range": 0.0,
+      "tetra_angle_mean": 109.21942275466499,
+      "tetra_angle_std": 5.313505590755678,
+      "tetra_angle_min": 93.70741869351005,
+      "tetra_angle_max": 123.93677918303544,
+      "tetra_angle_range": 30.22936048952539,
+      "tetra_angle_dev_mean": 4.194249929138643,
+      "tetra_angle_dev_std": 3.271851366879302,
+      "tetra_angle_dev_min": 0.3965629920325284,
+      "tetra_angle_dev_max": 15.763801940489955,
+      "tetra_angle_dev_range": 15.367238948457427,
+      "cation_offcenter_mean": 0.06129044313538992,
+      "cation_offcenter_std": 0.04349090440816546,
+      "cation_offcenter_min": 0.027506706756512178,
+      "cation_offcenter_max": 0.21559666341075043,
+      "cation_offcenter_range": 0.18808995665423825,
+      "cation_n_bond_cv": 0.04191022050830924,
+      "dopant_n_bond_delta": 0.1072424925125608,
+      "lattice_a_len": 6.349520847237373,
+      "lattice_b_len": 6.3565027044537485,
+      "lattice_c_len": 10.185769074837843,
+      "lattice_alpha": 90.0866442066711,
+      "lattice_beta": 89.71140665870085,
+      "lattice_gamma": 120.01373757357274,
+      "lattice_angle_deviation": 10.129658373847661,
+      "sg_number": 1,
+      "rdf_n_peaks": 3.0,
+      "rdf_peak_separation": 1.2399999999999998,
+      "rdf_height_ratio_21": 0.33264418289361597,
+      "rdf_width_ratio_21": 1.8751172031938195,
+      "rdf_area_ratio_21": 0.6237468298861706,
+      "rdf_peak1_width_norm": 0.020942408376963373,
+      "rdf_peak2_width_norm": 0.023811012104048526,
+      "rdf_peak2_sharpness": 35.31197237664373,
+      "rdf_sharpness_ratio_21": 0.1773991419453862,
+      "rdf_total_fwhm": 0.11500468812775289,
+      "rdf_local_order": 92.26332800078997,
+      "rdf_disorder": 0.010838542481270976,
+      "rdf_peak_balance": -0.500775695172684,
+      "rdf_width_balance": 0.30437618411579775,
+      "rdf_gap_over_width": 10.782169146205122,
+      "rdf_gap_over_peak1": 0.6492146596858639,
+      "rdf_peak1_area": 0.31848607148293767,
+      "rdf_peak2_area": 0.19865467745038268,
+      "volume_per_atom": 11.124172898306211,
+      "volume_per_cation": 22.248345796612423,
+      "tetragonal_strain": 0.604179168774537,
+      "ca_centered_abs": 0.4041791687745371,
+      "u_peak1_pos": 0.3581565587435111,
+      "u_peak2_pos": 0.5906770471424397,
+      "u_rdf_width_ratio": 0.3516154579773066
+    },
+    "c33": [
+      [
+        3356.6094,
+        1415.4798,
+        1222.2478
+      ],
+      [
+        1415.4798,
+        3253.77,
+        1145.6827
+      ],
+      [
+        1222.2478,
+        1145.6827,
+        2749.8056
+      ]
+    ],
+    "e33": [
+      [
+        2.82323,
+        -0.5612299999999999,
+        -6.2386
+      ],
+      [
+        0.74945,
+        0.03290000000000001,
+        -0.08973
+      ],
+      [
+        -0.9407399999999999,
+        -1.0069299999999999,
+        1.59464
+      ]
+    ],
+    "d33": 9.777849647649793
+  }
+}
